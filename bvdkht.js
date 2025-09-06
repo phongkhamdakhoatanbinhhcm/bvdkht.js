@@ -81,7 +81,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2834/phong-kham-tan-binh.html")) 
 </p>
 <h3 style="text-align:justify;">
 <span style="background-color:transparent;color:#38761d;">
-<strong>1. Bệnh viện Đa khoa Tâm Anh TPHCM</strong>
+<strong>1. Phòng khám đa khoa Tân Bình - Bệnh viện Đa khoa Tâm Anh TPHCM</strong>
 </span>
 </h3>
 <p style="text-align:justify;">
@@ -133,7 +133,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2834/phong-kham-tan-binh.html")) 
 <p>&nbsp;</p>
 <h3 style="text-align:justify;">
 <span style="background-color:transparent;color:#38761d;">
-<strong>2. Phòng khám Hoàng Mỹ Tân Bình</strong>
+<strong>2. Phòng khám đa khoa Tân Bình - Phòng khám Hoàng Mỹ Tân Bình</strong>
 </span>
 </h3>
 <p style="text-align:justify;">
@@ -182,7 +182,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2834/phong-kham-tan-binh.html")) 
 <p>&nbsp;</p>
 <h3 style="text-align:justify;">
 <span style="background-color:transparent;color:#38761d;">
-<strong>3. Phòng khám Đa khoa Tân Bình</strong>
+<strong>3. Phòng khám đa khoa Tân Bình - Phòng Khám Đa Khoa Tân Bình</strong>
 </span>
 </h3>
 <p style="text-align:justify;">
@@ -345,7 +345,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2834/phong-kham-tan-binh.html")) 
 <p>&nbsp;</p>
 <h3 style="text-align:justify;">
 <span style="background-color:transparent;color:#38761d;">
-<strong>4. Phòng khám Đa khoa Bernard</strong>
+<strong>4. Phòng khám đa khoa Tân Bình - Phòng khám Đa khoa Bernard</strong>
 </span>
 </h3>
 <p style="text-align:justify;">
@@ -391,7 +391,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2834/phong-kham-tan-binh.html")) 
 <p>&nbsp;</p>
 <h3 style="text-align:justify;">
 <span style="background-color:transparent;color:#38761d;">
-<strong>5. Phòng khám Đa khoa Viện Gút</strong>
+<strong>5. Phòng khám đa khoa Tân Bình - Phòng khám Đa khoa Viện Gút</strong>
 </span>
 </h3>
 <p style="text-align:justify;">
@@ -434,7 +434,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2834/phong-kham-tan-binh.html")) 
 <p>&nbsp;</p>
 <h3 style="text-align:justify;">
 <span style="background-color:transparent;color:#38761d;">
-<strong>6. Phòng khám Đa khoa Golden Healthcare</strong>
+<strong>6. Phòng khám đa khoa Tân Bình - Phòng khám Đa khoa Golden Healthcare</strong>
 </span>
 </h3>
 <p style="text-align:justify;">
@@ -480,7 +480,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2834/phong-kham-tan-binh.html")) 
 <p>&nbsp;</p>
 <h3 style="text-align:justify;">
 <span style="background-color:transparent;color:#38761d;">
-<strong>7. Phòng khám Đa khoa Gentical Lạc Long Quân</strong>
+<strong>7. Phòng khám đa khoa Tân Bình - Phòng khám Đa khoa Gentical Lạc Long Quân</strong>
 </span>
 </h3>
 <p style="text-align:justify;">
@@ -526,7 +526,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2834/phong-kham-tan-binh.html")) 
 <p>&nbsp;</p>
 <h3 style="text-align:justify;">
 <span style="background-color:transparent;color:#38761d;">
-<strong>8. Phòng khám Thuận Mỹ Sài Gòn</strong>
+<strong>8. Phòng khám đa khoa Tân Bình - Phòng khám Thuận Mỹ Sài Gòn</strong>
 </span>
 </h3>
 <p style="text-align:justify;">
@@ -572,7 +572,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2834/phong-kham-tan-binh.html")) 
 <p>&nbsp;</p>
 <h3 style="text-align:justify;">
 <span style="background-color:transparent;color:#38761d;">
-<strong>9. Phòng khám Đa khoa Trị liệu và Phục hồi Chức năng An Nhiên</strong>
+<strong>9. Phòng khám đa khoa Tân Bình - Phòng khám Đa khoa Trị liệu và Phục hồi Chức năng An Nhiên</strong>
 </span>
 </h3>
 <p style="text-align:justify;">
@@ -615,7 +615,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2834/phong-kham-tan-binh.html")) 
 <p>&nbsp;</p>
 <h3 style="text-align:justify;">
 <span style="background-color:transparent;color:#38761d;">
-<strong>10. Phòng khám Đa khoa CarePlus – Quận Tân Bình</strong>
+<strong>10. Phòng khám đa khoa Tân Bình - Phòng khám Đa khoa CarePlus – Quận Tân Bình</strong>
 </span>
 </h3>
 <p style="text-align:justify;">
@@ -736,5 +736,6 @@ window.onload = function() {
         window.location.reload();
     }
 }
+
 
 
