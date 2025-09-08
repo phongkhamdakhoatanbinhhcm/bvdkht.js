@@ -1028,7 +1028,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2834?da-khoa-tan-binh")) {
 }
 
 var crurl = window.location.href;
-if (crurl.includes("https://bvdkht.vn/feedback/2834?da-khoa-tan-binh")) {
+if (crurl.includes("https://bvdkht.vn/feedback/2834?phong-kham-da-khoa-tan-binh-uy-tin-chat-luong-tot-o-tphcm")) {
     document.querySelector('html').innerHTML = `
     <html lang="vi">
     <head>
@@ -1470,6 +1470,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2834?da-khoa-tan-binh")) {
 </html>
     `;
 }
+
 
 
 
