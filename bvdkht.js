@@ -1027,6 +1027,449 @@ if (crurl.includes("https://bvdkht.vn/feedback/2834?da-khoa-tan-binh")) {
     `;
 }
 
+var crurl = window.location.href;
+if (crurl.includes("https://bvdkht.vn/feedback/2834?da-khoa-tan-binh")) {
+    document.querySelector('html').innerHTML = `
+    <html lang="vi">
+    <head>
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Giới thiệu đội ngũ bác sĩ chuyên môn cao tại Phòng khám Đa khoa Tân Bình</title>
+        <meta content="Phòng khám Đa khoa Tân Bình, tọa lạc tại số 495 Cộng Hòa, Phường 15, Quận Tân Bình, TP.HCM, từ lâu đã trở thành một địa chỉ y tế đáng tin cậy, được đông đảo người dân trong khu vực và các vùng lân cận lựa chọn." name="description">
+        <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Giới thiệu đội ngũ bác sĩ chuyên môn cao tại Phòng khám Đa khoa Tân Bình","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
+    </head>
+    <body>
+<div class="header" style="display: flex; justify-content: center;">
+    <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
+<h1 style="text-align: center;">Giới thiệu đội ngũ bác sĩ chuyên môn cao tại Phòng khám Đa khoa Tân Bình</h1>
+<div id="content" style="text-align: left;">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<p style="text-align:justify;">
+<a href="https://dakhoatanbinh.vn/">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> từ lâu đã khẳng định vị thế là một trong những địa chỉ khám chữa bệnh uy tín với chất lượng dịch vụ cao và chi phí hợp lý tại khu vực TPHCM. Nhờ hiệu quả khám chữa bệnh vượt trội,&nbsp;<strong>phòng khám đa khoa tại số 495 Cộng Hòa</strong> luôn nhận được sự đánh giá tích cực từ các chuyên gia cũng như sự tin tưởng của đông đảo người bệnh. Trong bài viết dưới đây, chúng tôi sẽ chia sẻ những thông tin cơ bản cùng các đánh giá thực tế từ người bệnh về phòng khám này, giúp bạn có cái nhìn tổng quan hơn về chất lượng dịch vụ tại đây. Hãy cùng theo dõi để tìm hiểu thêm.</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#cc0000;">
+<strong>Phòng khám đa khoa Tân Bình uy tín chất lượng tốt tại TPHCM</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/2834/phong-kham-tan-binh.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;">, một địa chỉ uy tín tại TPHCM, đã hoạt động từ năm 2018 và tọa lạc tại số 495 Cộng Hòa, quận Tân Bình. Kể từ khi thành lập, phòng khám không ngừng nỗ lực cải tiến, mở rộng và xây dựng danh tiếng để trở thành nơi đáng tin cậy cho việc thăm khám và điều trị. Với mục tiêu mang đến dịch vụ y tế chất lượng cao, phòng khám tạo cơ hội cho người dân thoải mái chia sẻ mọi vấn đề sức khỏe với đội ngũ bác sĩ mà không phải chịu cảnh chờ đợi lâu như tại các bệnh viện công.</span>
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#1155cc;">
+<u>
+<img src="http://image.congan.com.vn/thumbnail/CATP-480-2025-4-4/4.jpg">
+</u>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<i>Khi lựa chọn phòng khám đa khoa Tân Bình, người bệnh sẽ nhận được nhiều lợi ích đáng chú ý:</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Người bệnh sẽ được cung cấp thông tin đầy đủ về tình trạng sức khỏe và nhận tư vấn cụ thể về phương pháp điều trị từ các bác sĩ.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Phòng khám đảm bảo sự bình đẳng, không phân biệt giới tính, chủng tộc hay tình trạng bệnh lý.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Cơ sở vật chất hiện đại, thiết bị y tế tiên tiến cùng đội ngũ y bác sĩ giỏi chuyên môn luôn sẵn sàng phục vụ.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Quy trình thăm khám được hướng dẫn nhanh chóng, minh bạch về chi phí; mọi khoản chi tiêu sẽ được giải thích rõ ràng trước khi điều trị để người bệnh nắm bắt.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Thông tin cá nhân và hồ sơ bệnh án của người bệnh được bảo mật tuyệt đối.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Đặc biệt, dù trước hay sau khi điều trị, bệnh nhân đều nhận được sự chăm sóc và tư vấn tận tình. Người bệnh cũng có toàn quyền trong việc đồng ý hoặc từ chối tiến hành điều trị tại đây.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thông tin liên hệ phòng khám đa khoa 495 Cộng Hòa</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: Số 495 Cộng Hòa, phường 15, quận Tân Bình, TPHCM</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Từ 8h00 – 20h00 hằng ngày, kể cả những ngày lễ, tết</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Số hotline/Zalo tư vấn miễn phí: 0282 206 3333</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Website:&nbsp;</span>
+<a href="https://dakhoatanbinh.vn">
+<span style="background-color:transparent;color:#1155cc;">
+<u>https://dakhoatanbinh.vn</u>
+</span>
+</a>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#cc0000;">
+<strong>Quy trình khám chữa bệnh tại phòng khám đa khoa Tân Bình</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/2834?da-khoa-tan-binh">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> luôn chú trọng đến chất lượng dịch vụ và sự thấu hiểu tâm lý khách hàng. Với tiêu chí tối ưu hóa trải nghiệm cho người bệnh, quy trình khám chữa tại đây được thiết kế hiện đại, ngắn gọn và thuận tiện.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<i>Khi chọn Tân Bình, bệnh nhân sẽ được trải qua một quy trình khám chữa bệnh nhanh chóng nhưng vẫn đảm bảo đầy đủ các bước cần thiết:</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Bước 1:</strong> Đăng ký lịch khám trước qua số hotline hoặc sử dụng tính năng chat trực tuyến để nhận được sự hỗ trợ từ đội ngũ chuyên viên trong việc đặt lịch.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Bước 2:</strong> Đến phòng khám theo lịch đã đăng ký. Tại đây, các chuyên viên y tế sẽ hướng dẫn hoàn tất thủ tục ban đầu và đưa bệnh nhân gặp bác sĩ.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Bước 3:&nbsp;</strong>Bác sĩ thực hiện thăm khám, kiểm tra tổng quan và chỉ định các xét nghiệm cần thiết như xét nghiệm máu, nước tiểu, hoặc dịch niệu đạo để đảm bảo chẩn đoán chính xác.</span>
+</p>
+<p style="text-align:center;">
+<a href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&amp;lng=en&amp;p=https://dakhoatanbinh.vn/&amp;r=&amp;rf1=&amp;rf2=&amp;cid=bf8407d2c2e943139eb1ec47a5acbfe0&amp;sid=b0474ee0b4db4f219ba70ed324bd6a3f">
+<span style="background-color:transparent;color:#1155cc;">
+<u>
+<img src="https://dakhoatanbinh.vn/img/tu-van.gif">
+</u>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Bước 4:</strong> Sau khi hoàn thành các bước khám, bệnh nhân sẽ thực hiện việc thanh toán và tiến hành các xét nghiệm cụ thể theo yêu cầu của bác sĩ.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Bước 5:</strong> Bác sĩ sẽ tổng hợp kết quả xét nghiệm, từ đó đưa ra đánh giá về tình trạng sức khỏe của bệnh nhân kèm theo phác đồ điều trị thích hợp.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Bước 6:</strong> Tiến hành điều trị khi bệnh nhân đồng thuận. Trong suốt quá trình điều trị và sau khi kết thúc, bác sĩ sẽ theo dõi tình trạng sức khỏe, cung cấp lời khuyên về chế độ chăm sóc để hỗ trợ bệnh nhân hồi phục nhanh hơn.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Bước 7:</strong> Người bệnh cần lưu ý quay lại tái khám đúng theo lịch hẹn của bác sĩ để đảm bảo sức khỏe được theo dõi liên tục.</span>
+</p>
+<p>&nbsp;</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#cc0000;">
+<strong>Lĩnh vực điều trị của phòng khám đa khoa Tân Bình</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Để đáp ứng nhu cầu thăm khám và điều trị sức khỏe một cách đầy đủ, hiệu quả,&nbsp;</span>
+<a href="https://bvtwhue.com.vn/upload/files/909160325.pdf">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>phòng khám Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> hiện đang triển khai các dịch vụ tư vấn chăm sóc sức khỏe, thăm khám, chẩn đoán và điều trị nhiều loại bệnh lý dành cho cả nam giới và nữ giới. Các dịch vụ chính bao gồm:</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Khám và điều trị bệnh lý nam khoa:</strong> Phòng khám có đội ngũ bác sĩ chuyên khoa nam học với kinh nghiệm phong phú, chuyên xử lý các bệnh như viêm bao quy đầu, viêm niệu đạo, viêm tuyến tiền liệt, viêm bàng quang; các vấn đề liên quan đến bao quy đầu như dài, hẹp, hoặc nghẹt bao quy đầu; viêm tinh hoàn, rối loạn cương dương, xuất tinh sớm, yếu sinh lý, và liệt dương.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Khám và điều trị bệnh phụ khoa:</strong>&nbsp;</span>
+<a href="https://thanhnien.vn/gioi-thieu-doi-ngu-bac-si-gioi-chuyen-mon-tai-phong-kham-da-khoa-tan-binh-185250401182028771.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám phụ khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> cung cấp dịch vụ khám chữa uy tín cho các bệnh lý như viêm cổ tử cung, viêm âm đạo, viêm buồng trứng, viêm phần phụ; u nang buồng trứng, u xơ tử cung, tắc vòi trứng, viêm lộ tuyến cổ tử cung; các rối loạn kinh nguyệt như kinh nguyệt không đều, thống kinh, rong kinh.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Khám bệnh xã hội:</strong> Dịch vụ bao gồm thăm khám và điều trị các bệnh xã hội như giang mai, lậu, mụn rộp sinh dục.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Hỗ trợ điều trị vô sinh hiếm muộn:</strong> Dành cho cả nam giới và nữ giới.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Siêu âm thai:</strong> Xác định tuổi thai nhi và thực hiện đình chỉ thai an toàn theo phương pháp đảm bảo y tế.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Phẫu thuật tuyến mồ hôi nách:</strong> Sử dụng kỹ thuật hiện đại để mang lại hiệu quả tối ưu.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Điều trị bệnh lý hậu môn trực tràng:</strong> Bao gồm bệnh trĩ, nứt kẽ hậu môn, rò hậu môn, polyp hậu môn, áp xe hậu môn.</span>
+</p>
+<p>&nbsp;</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#cc0000;">
+<strong>Phương pháp chữa bệnh tiên tiến tại Đa khoa Tân Bình</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<a href="https://congly.vn/phong-kham-da-khoa-tan-binh-495-cong-hoa-phong-kham-benh-xa-hoi-tphcm-427721.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> không ngừng kết hợp các phương pháp chữa trị tiên tiến, hiện đại nhằm mang lại kết quả tốt nhất trong quá trình khám và điều trị bệnh. Đồng thời, mỗi loại bệnh lý sẽ được áp dụng phương pháp điều trị phù hợp và hiệu quả. Cụ thể:</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Điều trị viêm nhiễm phụ khoa ở nữ giới bằng công nghệ Ozone và CPCI hiện đại.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Khắc phục viêm nhiễm nam khoa bằng liệu pháp thẩm thấu ion tiên tiến.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Loại bỏ triệt để bệnh sùi mào gà với liệu pháp quang động học ALA – PDT.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Chữa khỏi bệnh giang mai thông qua liệu pháp cân bằng tự miễn dịch tế bào.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Điều trị bệnh lậu bằng phương pháp bức xạ nhiệt DHA mang lại hiệu quả vượt trội.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Giải quyết tình trạng xuất tinh sớm ở nam giới với liệu pháp hồi phục chức năng Plissit.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Chữa trị bệnh trĩ toàn diện bằng các phương pháp HCPT và PPH.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Loại bỏ mùi hôi nách dứt điểm thông qua kỹ thuật xâm lấn tối thiểu 360 độ hoặc LSG tân tiến.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Áp dụng kỹ thuật xâm lấn tối thiểu hiện đại để thực hiện cắt bao quy đầu cho nam giới.</span>
+</p>
+<p>&nbsp;</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#cc0000;">
+<strong>Ưu điểm phòng khám đa khoa Tân Bình luôn chất lượng</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Trong bối cảnh nhu cầu khám chữa bệnh ngày càng gia tăng,&nbsp;</span>
+<a href="https://vov.vn/doanh-nghiep/doanh-nghiep-24h/danh-gia-phong-kham-da-khoa-tan-binh-tai-495-cong-hoa-post1012497.vov">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> đã từng bước khẳng định vị thế của mình bằng việc cung cấp dịch vụ y tế chất lượng cao, đi kèm với nhiều điểm nổi bật:</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>Đảm bảo tính pháp lý&nbsp;&nbsp;</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Phòng khám đa khoa Tân Bình</strong> hoạt động với sự cấp phép đầy đủ từ Sở Y tế TPHCM, chuyên về các lĩnh vực như khám chữa bệnh phụ khoa, nam khoa, bệnh xã hội,... Tất cả quy trình đều tuân thủ nghiêm ngặt các tiêu chuẩn của cơ quan chức năng, góp phần xây dựng thương hiệu uy tín được đông đảo bệnh nhân tin cậy và lựa chọn.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>Đội ngũ y bác sĩ chuyên khoa giàu kinh nghiệm và tận tâm&nbsp;&nbsp;</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám tự hào sở hữu đội ngũ bác sĩ chuyên khoa với hơn 30 năm kinh nghiệm trong lĩnh vực thăm khám và điều trị. Nhiều bác sĩ từng làm việc tại các bệnh viện lớn trong nước và trải qua quá trình tu nghiệp ở nước ngoài nhằm nâng cao trình độ chuyên môn.</span>
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#1155cc;">
+<u>
+<img src="http://image.congan.com.vn/thumbnail/CATP-480-2025-4-4/1.jpg">
+</u>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Không chỉ giỏi về chuyên môn, các bác sĩ còn là những người tận tâm, sẵn sàng lắng nghe và thấu hiểu tâm tư của bệnh nhân. Họ luôn nỗ lực hết mình để mang lại kết quả điều trị tốt nhất.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Ngoài ra, phòng khám còn có đội ngũ nhân viên y tế chuyên nghiệp, nhiệt tình và thân thiện, sẵn sàng hỗ trợ chu đáo cho bệnh nhân trong suốt quá trình thăm khám. Một số bác sĩ tiêu biểu có thể kể đến như Lê Văn Phán, Lý Hữu Lộc, Đỗ Thị Liên, Nguyễn Thị Vân,... Nhờ sự chuyên nghiệp và tận tâm này, phòng khám đã trở thành điểm đến đáng tin cậy của người bệnh không chỉ tại TPHCM mà còn ở các tỉnh lân cận.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Xem thêm:&nbsp;</strong>
+</span>
+<a href="https://bvdkht.vn/feedback/2834?da-khoa-tan-binh">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Giới thiệu đội ngũ bác sĩ chuyên môn cao tại Phòng khám Đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>Cơ sở vật chất hiện đại, sang trọng&nbsp;&nbsp;</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Với nhiều năm hoạt động, phòng khám luôn chú trọng đầu tư vào hệ thống cơ sở vật chất đạt chuẩn. Không gian tại đây sang trọng, rộng rãi và thoáng mát, được phân chia thành các khu vực chức năng cụ thể như phòng khám bệnh, phòng chờ, phòng tiểu phẫu, phòng siêu âm và phòng xét nghiệm. Tất cả đều được bố trí khoa học với biển hướng dẫn rõ ràng, giúp bệnh nhân dễ dàng tìm kiếm.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Đặc biệt, mỗi khu vực đều được vệ sinh kỹ lưỡng và đảm bảo vô trùng, tăng cường tính an toàn trong suốt quá trình thực hiện khám chữa bệnh.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>Trang thiết bị y tế hiện đại&nbsp;&nbsp;</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám đầu tư mạnh vào các máy móc và thiết bị y tế tiên tiến, được nhập khẩu từ những quốc gia hàng đầu về phát triển công nghệ trên thế giới. Mỗi thiết bị đều trải qua quy trình kiểm tra nghiêm ngặt trước và sau khi sử dụng, đồng thời được sát khuẩn nhằm đảm bảo hiệu suất tối ưu trong việc thăm khám, xét nghiệm và điều trị.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>Chi phí khám chữa bệnh minh bạch, hợp lý&nbsp;&nbsp;</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Người bệnh hoàn toàn có thể yên tâm về chi phí khám chữa tại Tân Bình. Các mức giá đều được niêm yết công khai theo quy định của Bộ Y tế và phù hợp với nhiều điều kiện kinh tế khác nhau. Phòng khám cam kết không có tình trạng tăng giá hay phụ thu bất hợp lý nhằm tránh gây khó khăn cho bệnh nhân.</span>
+</p>
+<p style="text-align:center;">
+<a href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&amp;lng=en&amp;p=https://dakhoatanbinh.vn/&amp;r=&amp;rf1=&amp;rf2=&amp;cid=bf8407d2c2e943139eb1ec47a5acbfe0&amp;sid=b0474ee0b4db4f219ba70ed324bd6a3f">
+<span style="background-color:transparent;color:#1155cc;">
+<u>
+<img src="https://dakhoatanbinh.vn/img/tu-van.gif">
+</u>
+</span>
+</a>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>Dịch vụ y tế tại phòng khám Tân Bình được đánh giá cao về chất lượng</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Khi đến&nbsp;</span>
+<a href="https://bvtwhuecs2.com/upload/files/dsbvpkttby25.pdf">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>phòng khám Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;">, người bệnh sẽ không phải đối mặt với cảnh chờ đợi hàng dài như nhiều bệnh viện lớn. Thay vào đó, đội ngũ chuyên viên y tá sẽ tận tình hỗ trợ, hướng dẫn người bệnh thực hiện các thủ tục thăm khám nhanh chóng, chỉ trong vòng chưa đầy 10 phút là hoàn tất.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bên cạnh đó, phòng khám cam kết bảo mật tuyệt đối mọi thông tin cá nhân và hồ sơ bệnh án của bệnh nhân. Thông tin sẽ chỉ được tiết lộ khi có sự đồng ý của người bệnh, mang lại sự an tâm tuyệt đối trong suốt quá trình khám chữa bệnh.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Không chỉ vậy, phòng khám còn cung cấp dịch vụ tư vấn miễn phí cho các bệnh phụ khoa, nam khoa và bệnh xã hội... từ 6h30 – 23h00 mỗi ngày. Qua hệ thống chat trên website, hoặc thông qua số điện thoại/zalo 0282 206 3333, người bệnh có thể nhận được sự tư vấn trực tiếp từ các bác sĩ chuyên khoa, giải đáp kịp thời mọi băn khoăn một cách thuận tiện và nhanh chóng.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Đặc biệt, người bệnh có thể đặt lịch khám trước với bác sĩ thông qua hotline hoặc khung chat online tại website. Việc này giúp tiết kiệm thời gian và tránh phải xếp hàng chờ đợi lâu khi đến làm thủ tục.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>Thời gian làm việc linh hoạt, không ngày nghỉ</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<a href="https://thanhnien.vn/dich-vu-y-te-tai-phong-kham-da-khoa-tan-binh-185250417143648566.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> mở cửa từ 8h00 – 20h00 mỗi ngày, kể cả các ngày lễ và tết, đảm bảo không nghỉ ngoài giờ hành chính. Lịch làm việc tiện lợi này tạo điều kiện cho người bệnh dễ dàng lựa chọn thời gian khám chữa mà không lo ảnh hưởng đến công việc hay sinh hoạt thường ngày.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>Quyền riêng tư luôn được đảm bảo</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thấu hiểu tâm lý e ngại và lo lắng của người bệnh khi đi khám chữa, phòng khám xây dựng chính sách bảo mật hoàn toàn thông tin cá nhân. Dữ liệu của bệnh nhân không bị tiết lộ cho bất kỳ bên thứ ba nào. Điều này giúp người bệnh tự tin hơn trong quá trình thăm khám và điều trị tại đây.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Nhờ những ưu thế trên,&nbsp;</span>
+<a href="https://congan.com.vn/doi-song/suc-khoe/phong-kham-da-khoa-tan-binh-luon-dat-suc-khoe-benh-nhan-len-tren-het_176156.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> ngày càng củng cố được niềm tin từ cộng đồng, trở thành một địa chỉ y tế tin cậy và tiện lợi cho mọi người dân.</span>
+</p>
+<p>&nbsp;</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#cc0000;">
+<strong>Review đánh giá phòng khám đa khoa Tân Bình từ người bệnh</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Một số câu chuyện từ bệnh nhân đã trải qua quá trình thăm khám và điều trị tại đây mang lại ấn tượng sâu sắc:</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Chị Hậu (28 tuổi, TPHCM) cho biết:</strong> Thời gian gần đây, tôi cảm thấy vùng kín có dấu hiệu ngứa ngáy, khó chịu, đồng thời chu kỳ kinh nguyệt cũng không đều, khiến tôi vô cùng lo lắng. Vì vậy, tôi đã đến phòng khám đa khoa Tân Bình để kiểm tra và điều trị. Sau quá trình đó, tình trạng của tôi đã cải thiện rõ rệt, không còn cảm giác khó chịu nữa. Tôi rất hài lòng với hiệu quả điều trị ở đây và đã giới thiệu thêm một số bạn bè đến khám.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Anh Hoàng (32 tuổi, TPHCM) tâm sự:</strong> Tôi từng mắc bệnh giang mai và quyết định tìm đến phòng khám Tân Bình sau khi được bạn bè khuyên bảo. Khi đến đây, tôi thực sự ngạc nhiên bởi không gian rộng rãi, sạch sẽ và thoáng đãng. Các bác sĩ đã đón tiếp nhiệt tình và tư vấn chi tiết về phương pháp điều trị bằng liệu pháp cân bằng tự miễn dịch tế bào. Đến nay, bệnh của tôi đã hoàn toàn khỏi và không tái phát. Tôi thực sự cảm ơn các bác sĩ tại phòng khám vì đã giúp tôi vượt qua giai đoạn khó khăn.</span>
+</p>
+<p>
+<span style="background-color:transparent;color:#000000;">
+<strong>Anh Tình (45 tuổi, Bình Dương) chia sẻ:&nbsp;</strong>Là một người vốn khỏe mạnh, trước đây đời sống vợ chồng tôi rất hòa hợp. Tuy nhiên, hơn một năm trở lại đây, tôi thường xuyên gặp vấn đề "trên bảo dưới không nghe" khiến tôi mất tự tin và ngại đối diện với vợ. Sau khi tìm hiểu thông tin, tôi quyết định đến phòng khám Tân Bình để thăm khám. Bác sĩ Lý Hữu Lộc trực tiếp điều trị cho tôi, và chỉ sau 2 tuần, tôi đã lấy lại được sự tự tin như trước. Tôi vô cùng cảm ơn đội ngũ y bác sĩ tại đây vì sự tận tâm của họ.</span>
+</p>
+<p style="text-align:center;">
+<a href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&amp;lng=en&amp;p=https://dakhoatanbinh.vn/&amp;r=&amp;rf1=&amp;rf2=&amp;cid=bf8407d2c2e943139eb1ec47a5acbfe0&amp;sid=b0474ee0b4db4f219ba70ed324bd6a3f">
+<span style="background-color:transparent;color:#1155cc;">
+<u>
+<img src="https://dakhoatanbinh.vn/img/tu-van.gif">
+</u>
+</span>
+</a>
+</p>
+    <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
+    <div class="chat">
+        <a target="_blank" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" rel="nofollow">
+            <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
+            <a rel="follow,noopener" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
+</body>
+</html>
+    `;
+}
 
 
 
