@@ -1035,18 +1035,18 @@ if (crurl.includes("https://bvdkht.vn/feedback/2834?phong-kham-da-khoa-tan-binh-
         <meta content="width=device-width,initial-scale=1" name="viewport">
         <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
         <meta charset="utf-8">
-        <title>Giới thiệu đội ngũ bác sĩ chuyên môn cao tại Phòng khám Đa khoa Tân Bình</title>
-        <meta content="Phòng khám Đa khoa Tân Bình, tọa lạc tại số 495 Cộng Hòa, Phường 15, Quận Tân Bình, TP.HCM, từ lâu đã trở thành một địa chỉ y tế đáng tin cậy, được đông đảo người dân trong khu vực và các vùng lân cận lựa chọn." name="description">
+        <title>Phòng Khám Đa Khoa Tân Bình uy tín chất lượng tốt ở TPHCM</title>
+        <meta content="Phòng khám đa khoa Tân Bình từ lâu đã khẳng định vị thế là một trong những địa chỉ khám chữa bệnh uy tín với chất lượng dịch vụ cao và chi phí hợp lý tại khu vực TPHCM" name="description">
         <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
-            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Giới thiệu đội ngũ bác sĩ chuyên môn cao tại Phòng khám Đa khoa Tân Bình","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Phòng Khám Đa Khoa Tân Bình uy tín chất lượng tốt ở TPHCM","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
         </script>
         <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
     </head>
     <body>
 <div class="header" style="display: flex; justify-content: center;">
     <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
-<h1 style="text-align: center;">Giới thiệu đội ngũ bác sĩ chuyên môn cao tại Phòng khám Đa khoa Tân Bình</h1>
+<h1 style="text-align: center;">Phòng Khám Đa Khoa Tân Bình uy tín chất lượng tốt ở TPHCM</h1>
 <div id="content" style="text-align: left;">
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
 <p style="text-align:justify;">
@@ -1470,6 +1470,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2834?phong-kham-da-khoa-tan-binh-
 </html>
     `;
 }
+
 
 
 
