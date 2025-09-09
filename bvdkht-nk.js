@@ -252,3 +252,152 @@ if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-t
     `;
 
 }
+
+
+var crurl = window.location.href;
+if (crurl.includes("https://bvdkht.vn/feedback/2853?phong-kham-nam-khoa-phuong-tan-son-hoa")) {
+    document.querySelector('html').innerHTML = `
+   <html lang="vi">
+    <head>
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Top 4 phòng khám nam khoa phường Tân Sơn Hòa uy tín hiện nay</title>
+        <meta content="Phòng khám nam khoa phường Tân Sơn Hòa uy tín chất lượng nổi bật bao gồm: phòng khám TS.BS. Vũ Hồng Thịnh, phòng khám ThS.BS. Trương Hoàng Minh, phòng khám BS. Nguyễn Đình Xướng, phòng khám Đa khoa Tân Bình" name="description">
+        <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 4 phòng khám nam khoa phường Tân Sơn Hòa uy tín hiện nay","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
+    </head>
+    <body>
+<div class="header" style="display: flex; justify-content: center;">
+    <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
+<h1 style="text-align: center;">Top 4 phòng khám nam khoa phường Tân Sơn Hòa uy tín hiện nay</h1>
+<div id="content" style="text-align: left;">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bệnh nam khoa là nhóm bệnh lý ảnh hưởng trực tiếp đến sức khỏe sinh sản và đời sống tình dục của nam giới. Đây là lĩnh vực y tế quan trọng, giúp phát hiện và điều trị kịp thời nhiều vấn đề tiềm ẩn liên quan đến sức khỏe nam giới.</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>1. Phòng khám nam khoa phường Tân Sơn Hòa - TS.BS. Vũ Hồng Thịnh</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">TS.BS. Vũ Hồng Thịnh là một trong những bác sĩ nổi bật trong lĩnh vực nam khoa tại TP.HCM. Với kiến thức chuyên sâu và nhiều năm kinh nghiệm thực tiễn, bác sĩ tập trung điều trị các vấn đề như rối loạn cương dương, xuất tinh sớm, suy giảm chức năng sinh lý, cũng như các bệnh lý về bao quy đầu, tuyến tiền liệt và tinh hoàn.</span>
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<img src="https://i.imgur.com/iKWm9cu.png">
+</span>
+</p>
+<p style="text-align:center;">
+<i>Phòng khám BS. Vũ Hồng Thịnh</i>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: Số 5 Lý Thường Kiệt, Phường Tân Sơn Nhất, TP. Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Chủ Nhật: 17:00 – 20:30</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>2. Phòng khám nam khoa phường Tân Sơn Hòa - ThS.BS. Trương Hoàng Minh</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thạc sĩ, bác sĩ Trương Hoàng Minh là một trong những chuyên gia y tế có chuyên môn cao trong lĩnh vực nam khoa. Với nhiều năm kinh nghiệm thực tiễn, bác sĩ đã tích lũy được nền tảng kiến thức vững chắc, luôn mang đến sự an tâm cho người bệnh. Điểm đặc biệt ở bác sĩ Minh chính là phong thái giản dị, gần gũi, dễ tạo cảm giác thoải mái cho bệnh nhân trong suốt quá trình thăm khám.</span>
+</p>
+<figure class="image">
+<img src="https://i.imgur.com/eueJgBM.png">
+</figure>
+<p style="text-align:center;">
+<i>Phòng khám BS. Trương Hoàng Minh</i>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: Số 429/3 Hoàng văn Thụ, Phường Tân Sơn Hòa, TP. Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Thứ Bảy: 16:30 – 20:30</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>3. Phòng khám nam khoa phường Tân Sơn Hòa - BS. Nguyễn Đình Xướng</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám nam khoa tại quận Tân Bình do bác sĩ Nguyễn Đình Xướng trực tiếp phụ trách, hiện tọa lạc tại địa chỉ 95/2D Phạm Văn Hai, Phường Tân Sơn Hòa, TP.HCM. Với nhiều năm hoạt động trong lĩnh vực y tế, dưới sự dẫn dắt chuyên môn của bác sĩ Xướng, nơi đây đã khẳng định được uy tín, trở thành điểm đến tin cậy cho đông đảo bệnh nhân trong khu vực và các vùng lân cận.</span>
+</p>
+<figure class="image">
+<img src="https://i.imgur.com/fC5wl21.png">
+</figure>
+<p style="text-align:center;">
+<i>Phòng khám BS. Nguyễn Đình Xướng</i>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: Số 95/2D Phạm Văn Hai, Phường Tân Sơn Hòa, TP. Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai - Chủ Nhật: 17:00 – 21:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>4. Phòng khám nam khoa phường Tân Sơn Hòa - Phòng Khám Đa Khoa Tân Bình</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/2834?phong-kham-da-khoa-tan-binh-uy-tin-chat-luong-tot-o-tphcm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;">, tọa lạc tại 495 Cộng Hòa, Phường 15, Quận Tân Bình, TP.HCM, từ lâu đã được biết đến là một trong những cơ sở y tế uy tín trong lĩnh vực chăm sóc sức khỏe nam khoa. Với hệ thống dịch vụ toàn diện, cơ sở vật chất hiện đại cùng đội ngũ y bác sĩ chuyên môn cao, phòng khám đã trở thành điểm đến tin cậy cho đông đảo nam giới trên địa bàn thành phố cũng như các khu vực lân cận. Đây là lựa chọn phù hợp cho những ai đang tìm kiếm sự an toàn, hiệu quả và tận tâm trong điều trị.</span>
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<img src="https://i.imgur.com/wSx3Ntr.png">
+</span>
+</p>
+<p style="text-align:center;">
+<i>Phòng Khám Đa Khoa Tân Bình</i>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thông tin liên hệ:</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 495 Cộng Hòa, Phường 15, Quận Tân Bình, TPHCM</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Website:&nbsp;</span>
+<a href="https://dakhoatanbinh">
+<span style="background-color:transparent;color:#1155cc;">
+<u>https://dakhoatanbinh</u>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Điện thoại: 0282.206.3333</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: 8 giờ - 20 giờ từ thứ hai đến chủ nhật (kể cả lễ, Tết)</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Hy vọng rằng những thông tin trên từ bài viết đã giúp bạn nắm được các thông tin cần thiết về các phòng khám nam khoa uy tín tại phường Tân Sơn Hòa, để bạn có thể cân nhắc trước khi lựa chọn nơi thăm khám.</span>
+</p>
+
+   <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
+    <div class="chat">
+        <a target="_blank" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" rel="nofollow">
+            <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
+            <a rel="follow,noopener" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
+</body>
+</html>
+    `;
+
+}
+
+
+
