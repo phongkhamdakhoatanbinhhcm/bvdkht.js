@@ -6,18 +6,18 @@ if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-t
         <meta content="width=device-width,initial-scale=1" name="viewport">
         <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
         <meta charset="utf-8">
-        <title>Top 10 phòng khám đa khoa Tân Bình có uy tín tốt, chất lượng cao</title>
-        <meta content="Top 10 phòng khám đa khoa Tân Bình có uy tín tốt, chất lượng cao: 1. Bệnh viện Đa khoa Tâm Anh TPHCM, 2. Phòng khám Hoàng Mỹ Tân Bình, 3. Phòng khám Đa khoa Tân Bình, 4. Phòng khám Đa khoa Bernard, 5. Phòng khám Đa khoa Viện Gút, 6. Phòng khám Đa khoa Golden Healthcare, 7. Phòng khám Đa khoa Gentical Lạc Long Quân, 8. Phòng khám Thuận Mỹ Sài Gòn, 9. Phòng khám Đa khoa Trị liệu và Phục hồi Chức năng An Nhiên, 10. Phòng khám Đa khoa CarePlus – Quận Tân Bình" name="description">
+        <title>Top 4 phòng khám nam khoa phường Tân Bình uy tín hiện nay</title>
+        <meta content="Phòng khám nam khoa phường Tân Bình nổi bật bao gồm: phòng khám TS.BS. Vũ Hồng Thịnh, phòng khám ThS.BS. Trương Hoàng Minh, phòng khám BS. Nguyễn Đình Xướng, phòng khám Đa khoa Tân Bình" name="description">
         <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
-            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"PhĂ²ng khĂ¡m Äa khoa TĂ¢n BĂ¬nh","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 4 phòng khám nam khoa phường Tân Bình uy tín hiện nay","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
         </script>
         <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
     </head>
     <body>
 <div class="header" style="display: flex; justify-content: center;">
     <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
-<h1 style="text-align: center;">Top 10 phòng khám đa khoa Tân Bình có uy tín tốt, chất lượng cao</h1>
+<h1 style="text-align: center;">Top 4 phòng khám nam khoa phường Tân Bình uy tín hiện nay</h1>
 <div id="content" style="text-align: left;">
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
 <p style="text-align:justify;">
@@ -250,4 +250,5 @@ if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-t
 </body>
 </html>
     `;
+
 }
