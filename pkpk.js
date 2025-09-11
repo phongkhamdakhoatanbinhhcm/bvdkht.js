@@ -384,18 +384,30 @@ if (crurl.includes("https://bvdkht.vn/feedback/2857/phong-kham-phu-khoa-quan-3.h
 }
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
-<script>
 var crurl = window.location.href;
+if (crurl.includes("https://bvdkht.vn/feedback/2857/phong-kham-phu-khoa-quan-4.pdf")) {
+    document.querySelector('html').innerHTML = `
+   <html lang="vi">
+    <head>
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Top 6 phòng khám phụ khoa quận 3 hàng đầu uy tín chất lượng</title>
+        <meta content="Phòng khám phụ khoa quận 3: Phòng khám BS.CKII. Nguyễn Thị Kiều Loan, Phòng khám ThS.BS. Lê Thị Kiều Dung, Phòng khám BS.CKI. Nguyễn Văn Giang, Phòng khám BS.CKII. Vũ Duy Minh, Phòng khám BS.CKII. Hoàng Thị Mỹ Ý, Phòng Khám Đa Khoa Tân Bình " name="description">
+        <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 6 phòng khám phụ khoa quận 3 hàng đầu uy tín chất lượng","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
+    </head>
+    <body>
+<div class="header" style="display: flex; justify-content: center;">
+    <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
+<h1 style="text-align: center;">Top 6 phòng khám phụ khoa quận 3 hàng đầu uy tín chất lượng</h1>
+<div id="content" style="text-align: left;">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
 
-if (crurl.includes("https://bvdkht.vn/feedback/2857/phong-kham-nam-khoa-phuong-tan-binh.pdf")) {
-    document.title = "Top 4 phòng khám nam khoa phường Tân Bình uy tín hiện nay";
-
-    // Thay toàn bộ body
-    document.body.innerHTML = `
-        <div id="content">
-            <h1>Top 4 phòng khám nam khoa phường Tân Bình uy tín hiện nay</h1>
-           <p style="text-align:justify;">
+<p style="text-align:justify;">
 <span style="background-color:transparent;color:#000000;">Theo thống kê từ Bộ Y Tế vào năm 2014, có hơn 90% phụ nữ tại Việt Nam từng mắc ít nhất một lần các bệnh liên quan đến phụ khoa. Đây là một con số đáng báo động, phản ánh sự cần thiết của việc khám phụ khoa định kỳ để bảo vệ sức khỏe, theo đúng hướng dẫn của bác sĩ. Vì vậy, bài viết sau đây xin chia sẻ thông tin đến các chị em về 6 phòng khám phụ khoa uy tín hàng đầu tại quận 3 hiện nay.</span>
 </p>
 <h2 style="text-align:justify;">
@@ -746,43 +758,13 @@ if (crurl.includes("https://bvdkht.vn/feedback/2857/phong-kham-nam-khoa-phuong-t
 </a>
 </p>
 
-            <img src="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" alt="Logo Tân Bình" style="max-width:200px">
-        </div>
-        <br>
-        <a id="pdf-link" href="#" target="_blank">Đang tạo PDF...</a>
+   <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
+    <div class="chat">
+        <a target="_blank" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" rel="nofollow">
+            <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
+            <a rel="follow,noopener" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
+</body>
+</html>
     `;
 
-    // Thêm meta description
-    var meta = document.createElement("meta");
-    meta.name = "description";
-    meta.content = "Phòng khám nam khoa phường Tân Bình nổi bật: TS.BS. Vũ Hồng Thịnh, ThS.BS. Trương Hoàng Minh, BS. Nguyễn Đình Xướng, phòng khám Đa khoa Tân Bình";
-    document.head.appendChild(meta);
-
-    // Thêm CSS ngoài
-    var link = document.createElement("link");
-    link.rel = "stylesheet";
-    link.href = "https://v.timduongdi.com/giaodien.css";
-    document.head.appendChild(link);
-
-    // Tạo PDF link thay vì tải xuống
-    setTimeout(function() {
-        var element = document.getElementById("content");
-        var opt = {
-            margin:       10,
-            filename:     "phong-kham-nam-khoa-phuong-tan-binh.pdf",
-            image:        { type: "jpeg", quality: 0.98 },
-            html2canvas:  { scale: 2 },
-            jsPDF:        { unit: "mm", format: "a4", orientation: "portrait" }
-        };
-
-        html2pdf().set(opt).from(element).outputPdf("bloburl").then(function(pdfUrl) {
-            var link = document.getElementById("pdf-link");
-            link.href = pdfUrl;
-            link.textContent = "Xem PDF tại đây";
-        });
-    }, 1000);
 }
-</script>
-
-
-
