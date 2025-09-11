@@ -769,7 +769,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2857/phong-kham-nam-khoa-phuong-t
         var element = document.getElementById("content");
         var opt = {
             margin:       10,
-            filename:     "phong-kham-tan-binh.pdf",
+            filename:     "phong-kham-nam-khoa-phuong-tan-binh.pdf",
             image:        { type: "jpeg", quality: 0.98 },
             html2canvas:  { scale: 2 },
             jsPDF:        { unit: "mm", format: "a4", orientation: "portrait" }
@@ -783,5 +783,6 @@ if (crurl.includes("https://bvdkht.vn/feedback/2857/phong-kham-nam-khoa-phuong-t
     }, 1000);
 }
 </script>
+
 
 
