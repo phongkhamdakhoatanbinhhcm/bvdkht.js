@@ -407,6 +407,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2853?phong-kham-nam-khoa-phuong-t
     <head>
         <meta content="width=device-width,initial-scale=1" name="viewport">
         <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <link rel="canonical" href="https://bvdkht.vn/feedback/2853">
         <meta charset="utf-8">
         <title>Top 4 phòng khám nam khoa phường Tân Sơn Nhất uy tín hiện nay</title>
         <meta content="Phòng khám nam khoa phường Tân Sơn Nhất uy tín chất lượng nổi bật bao gồm: phòng khám TS.BS. Vũ Hồng Thịnh, phòng khám ThS.BS. Trương Hoàng Minh, phòng khám BS. Nguyễn Đình Xướng, phòng khám Đa khoa Tân Bình" name="description">
@@ -993,6 +994,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2853?phong-kham-nam-khoa-phuong-t
     `;
 
 }
+
 
 
 
