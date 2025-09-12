@@ -255,7 +255,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-t
 
 
 var crurl = window.location.href;
-if (crurl.includes("https://bvdkht.vn/feedback/2853?phong-kham-nam-khoa-phuong-tan-son-hoa")) {
+if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-tan-son-hoa")) {
     document.querySelector('html').innerHTML = `
    <html lang="vi">
     <head>
@@ -994,6 +994,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2853?phong-kham-nam-khoa-phuong-t
     `;
 
 }
+
 
 
 
