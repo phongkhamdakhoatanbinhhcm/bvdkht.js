@@ -1472,6 +1472,225 @@ if (crurl.includes("https://bvdkht.vn/feedback/2834?phong-kham-da-khoa-tan-binh-
 }
 
 
+var crurl = window.location.href;
+if (crurl.includes("https://bvdkht.vn/feedback/2834/cham-soc-suc-khoe-tai-phong-kham-da-khoa-tan-binh")) {
+    document.querySelector('html').innerHTML = `
+   <html lang="vi">
+    <head>
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Chăm sóc sức khỏe tại Phòng Khám Đa Khoa Tân Bình</title>
+        <meta content="Đa khoa Tân Bình, đặt tại địa chỉ 495 Cộng Hòa, phường 15, quận Tân Bình, TPHCM, là một phòng khám tư nhân nằm ở khu vực trung tâm với quy mô hoạt động rộng rãi tại khu vực phía Nam" name="description">
+        <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Chăm sóc sức khỏe tại Phòng Khám Đa Khoa Tân Bình","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
+    </head>
+    <body>
+<div class="header" style="display: flex; justify-content: center;">
+    <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
+<h1 style="text-align: center;">Chăm sóc sức khỏe tại Phòng Khám Đa Khoa Tân Bình</h1>
+<div id="content" style="text-align: left;">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+
+<p style="text-align:justify;">
+<a href="https://dakhoatanbinh.vn/">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> không ngừng nâng cao chất lượng điều trị nội và ngoại khoa nhằm đáp ứng nhu cầu chăm sóc sức khỏe ngày càng tăng của người dân trong thành phố và các khu vực lân cận.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Khám chữa bệnh và chăm sóc sức khỏe là nhu cầu thiết yếu của mọi người. Việc tìm được một cơ sở y tế uy tín giúp người bệnh yên tâm hơn và giảm bớt áp lực trong quá trình điều trị.</span>
+</p>
+<figure class="image">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091067774f85d9944f1a3be28861e9689c12.jpg">
+</figure>
+<p style="text-align:justify;">
+<a href="https://bvtwhue.com.vn/upload/files/10-phong-kham-da-khoa-tan-binh.pdf">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;">, đặt tại địa chỉ&nbsp;<i>495 Cộng Hòa, phường 15, quận Tân Bình, TPHCM</i>, là một phòng khám tư nhân nằm ở khu vực trung tâm với quy mô hoạt động rộng rãi tại khu vực phía Nam. Theo thông tin từ cơ sở, mỗi ngày nơi đây tiếp nhận hàng trăm bệnh nhân từ TPHCM và các tỉnh lân cận. Đến với phòng khám, người bệnh sẽ được trực tiếp thăm khám bởi đội ngũ y bác sĩ chuyên môn cao, giàu kinh nghiệm, cùng dịch vụ chất lượng tốt.&nbsp;</span>
+<a href="https://bvdkht.vn/feedback/2834/phong-kham-tan-binh.html##">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> đã xử lý thành công nhiều ca bệnh phức tạp, trở thành lựa chọn chăm sóc sức khỏe đáng tin cậy cho người dân thành phố và các khu vực lân cận.</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>Đội ngũ bác sĩ</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Đại diện&nbsp;</span>
+<a href="https://bvdkht.vn/feedback/2834?da-khoa-tan-binh">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> chia sẻ rằng đơn vị tuyển dụng các bác sĩ chuyên khoa với trình độ chuyên môn cao, tốt nghiệp từ những trường y danh tiếng trên toàn quốc. Các bác sĩ tại đây đều có ít nhất 20 năm kinh nghiệm làm việc tại các bệnh viện lớn và từng tham gia các chương trình tu nghiệp ở nước ngoài. Với bề dày kinh nghiệm, họ trực tiếp thực hiện chẩn đoán và điều trị nhiều bệnh lý như nam khoa, phụ khoa, bệnh da liễu, bệnh tình dục, bệnh tiêu hóa, cũng như tiến hành các thủ thuật đình chỉ thai.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_20250911f3b15ee1517b45cd6d55888303ea9f7f.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Đội ngũ y bác sĩ uy tín tận tâm tại Phòng Khám Đa Khoa Tân Bình</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Đội ngũ bác sĩ và nhân viên y tế của phòng khám được đào tạo bài bản, luôn đặt y đức lên hàng đầu, lấy sức khỏe của người bệnh làm trọng tâm trong mọi hoạt động. Theo lời đại diện của phòng khám, việc thăm khám chu đáo và tận tâm chính là yếu tố quan trọng giúp quy trình điều trị trở nên thuận lợi hơn, đồng thời tăng khả năng hồi phục cho người bệnh.</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>Cơ sở hạ tầng</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám được thiết kế theo mô hình quốc tế với không gian mở, mang lại cảm giác hiện đại và thoải mái cho khách hàng. Tại đây có các khu vực chuyên biệt như phòng xét nghiệm, phòng nội soi, phòng siêu âm, phòng phẫu thuật… Tất cả đều đảm bảo vô trùng định kỳ theo đúng tiêu chuẩn quy định. Đơn vị đã đầu tư hàng tỷ đồng để nhập khẩu hệ thống máy móc và trang thiết bị y tế chuyên dụng từ nước ngoài, trải qua quy trình kiểm tra kỹ lưỡng trước khi đưa vào sử dụng.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bên cạnh đó, phòng khám luôn chú trọng cập nhật các phương pháp khám chữa bệnh tiên tiến từ những quốc gia có nền y học phát triển nhằm nâng cao hiệu quả điều trị. Đặc biệt, khu vực phòng chờ cao cấp với không gian sạch sẽ, yên tĩnh chính là một điểm nhấn, giúp người bệnh cảm thấy thư giãn và yên tâm hơn trong quá trình khám chữa bệnh.</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>Dịch vụ y tế</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám hiện sở hữu kênh tư vấn sức khỏe miễn phí hoạt động xuyên suốt 24/24. Thắc mắc của người bệnh đều được các nhân viên y tế, bác sĩ giải mà không cần phải tốn kém chi phí cuộc gọi hay chi phí đi lại.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám hiện cung cấp một kênh tư vấn sức khỏe miễn phí, hoạt động liên tục suốt 24 giờ mỗi ngày. Tất cả thắc mắc của người bệnh đều được đội ngũ y tế và bác sĩ giải đáp mà không phát sinh chi phí cuộc gọi hay đi lại.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_20250911e6fa3a5fd4522d67eaa7837efe171306.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng Khám Đa Khoa Tân Bình cung cấp dịch vụ y tế đa dạng</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Quy trình đăng ký nhanh gọn, chỉ mất từ 1 đến 3 phút, giúp người bệnh có thể bắt đầu thăm khám sớm mà không phải chờ đợi lâu.&nbsp;</span>
+<a href="https://bvdkht.vn/feedback/2834?phong-kham-da-khoa-tan-binh-uy-tin-chat-luong-tot-o-tphcm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> đã đơn giản hóa các bước thăm khám nhưng vẫn đảm bảo nghiêm ngặt quy trình điều trị. Đặc biệt, bệnh nhân bận rộn có thể linh hoạt đặt lịch hẹn theo khung giờ mong muốn, từ 8h đến 20h, tất cả các ngày trong tuần, kể cả dịp lễ, tết.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Theo đại diện phòng khám, chi phí khám chữa bệnh hợp lý chính là một trong những lợi thế nổi bật của đơn vị. Mọi khoản phí đều được thông báo rõ ràng trước khi tiến hành điều trị, niêm yết minh bạch và thu đúng theo mức quy định, mang đến sự an tâm cho người bệnh.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Mọi thông tin thắc mắc về phòng khám xin vui lòng liên hệ địa chỉ: 495 Cộng Hòa, phường 15, quận Tân Bình, TP HCM. Số điện thoại: 0282 206 3333. Xem thêm&nbsp;</span>
+<a href="https://dakhoatanbinh.vn/">
+<span style="background-color:transparent;color:#1155cc;">
+<u>website</u>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> tại đây.</span>
+</p>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-ben-thanh">
+<span style="background-color:transparent;color:#1155cc;">
+<u>https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-ben-thanh</u>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-sai-gon">
+<span style="background-color:transparent;color:#1155cc;">
+<u>https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-sai-gon</u>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-tan-dinh">
+<span style="background-color:transparent;color:#1155cc;">
+<u>https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-tan-dinh</u>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-cau-ong-lanh">
+<span style="background-color:transparent;color:#1155cc;">
+<u>https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-cau-ong-lanh</u>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="http://phongkhamdalieuthangtam.xim.tv/tin-tuc/6-phong-kham-nam-khoa-phuong-cau-ong-lanh-kham-chua-hieu-qua-new99916.html">
+<span style="background-color:transparent;color:#1155cc;">
+<u>http://phongkhamdalieuthangtam.xim.tv/tin-tuc/6-phong-kham-nam-khoa-phuong-cau-ong-lanh-kham-chua-hieu-qua-new99916.html</u>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="http://phongkhamdalieuthangtam.xim.tv/tin-tuc/6-phong-kham-nam-khoa-phuong-tan-dinh-tot-nhat-danh-cho-nam-gioi-new99917.html">
+<span style="background-color:transparent;color:#1155cc;">
+<u>http://phongkhamdalieuthangtam.xim.tv/tin-tuc/6-phong-kham-nam-khoa-phuong-tan-dinh-tot-nhat-danh-cho-nam-gioi-new99917.html</u>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="http://phongkhamdalieuthangtam.xim.tv/tin-tuc/6-phong-kham-nam-khoa-phuong-sai-gon-nam-gioi-khong-the-bo-qua-new99918.html">
+<span style="background-color:transparent;color:#1155cc;">
+<u>http://phongkhamdalieuthangtam.xim.tv/tin-tuc/6-phong-kham-nam-khoa-phuong-sai-gon-nam-gioi-khong-the-bo-qua-new99918.html</u>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="http://phongkhamdalieuthangtam.xim.tv/tin-tuc/6-phong-kham-nam-khoa-phuong-ben-thanh-danh-cho-canh-may-rau-new99919.html">
+<span style="background-color:transparent;color:#1155cc;">
+<u>http://phongkhamdalieuthangtam.xim.tv/tin-tuc/6-phong-kham-nam-khoa-phuong-ben-thanh-danh-cho-canh-may-rau-new99919.html</u>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">&nbsp;</p>
+<figure class="image">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091067774f85d9944f1a3be28861e9689c12.jpg">
+</figure>
+
+
+
+
+   <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
+    <div class="chat">
+        <a target="_blank" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" rel="nofollow">
+            <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
+            <a rel="follow,noopener" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
+</body>
+</html>
+    `;
+
+}
+
 
 
 
