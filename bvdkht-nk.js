@@ -2116,12 +2116,12 @@ if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-c
 <span style="background-color:transparent;color:#000000;">Thứ 2 – Chủ nhật: 7:00 – 11:30 &amp; 12:30 – 20:00</span>
 </p>
 <h2 style="text-align:justify;">
-<span style="background-color:transparent;color:#990000;">
-<strong>3. Phòng khám nam khoa phường Tân Định - Bệnh viện quận 1</strong>
+<span style="background-color:transparent;color:#0000ff;">
+<strong>3. Phòng khám nam khoa phường Cầu Ông Lãnh - Bệnh viện quận 1</strong>
 </span>
 </h2>
 <p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">Một trong những thế mạnh nổi bật của Bệnh viện Quận 1 là đội ngũ y bác sĩ giàu kinh nghiệm, được đào tạo bài bản và có chuyên môn sâu trong khám chữa bệnh nam khoa. Các bác sĩ không chỉ giỏi về kỹ thuật mà còn tận tâm, luôn sẵn sàng lắng nghe, tư vấn và đồng hành cùng bệnh nhân trong suốt quá trình điều trị, giúp người bệnh yên tâm và thoải mái hơn khi thăm khám.</span>
+<span style="background-color:transparent;color:#000000;">Bệnh viện Quận 1 cũng đặc biệt chú trọng đến việc đầu tư hệ thống trang thiết bị y tế hiện đại và chuyên dụng. Những công nghệ tiên tiến này hỗ trợ đắc lực cho các bác sĩ trong việc chẩn đoán chính xác nguyên nhân, từ đó đưa ra phác đồ điều trị hiệu quả và phù hợp với từng trường hợp cụ thể. Điều này giúp nâng cao đáng kể tỷ lệ thành công trong khám chữa bệnh nam khoa.</span>
 </p>
 <p style="text-align:center;">
 <img src="https://sf-static.upanhlaylink.com/img/image_20250911334ee8c8d8be0a94f2c1bdddc360a7c6.jpg">
@@ -2153,12 +2153,12 @@ if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-c
 <span style="background-color:transparent;color:#000000;">- Thứ 7 – Chủ nhật: Chỉ trực cấp cứu</span>
 </p>
 <h2 style="text-align:justify;">
-<span style="background-color:transparent;color:#990000;">
-<strong>4. Phòng khám nam khoa phường Tân Định - Phòng khám Đa khoa Quốc tế</strong>
+<span style="background-color:transparent;color:#0000ff;">
+<strong>4. Phòng khám nam khoa phường Cầu Ông Lãnh - Phòng khám Đa khoa Quốc tế</strong>
 </span>
 </h2>
 <p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">Phòng khám Đa khoa Quốc tế cung cấp đa dạng các phương pháp điều trị, từ thăm khám, chẩn đoán cho đến các thủ thuật y tế chuyên sâu. Không chỉ tập trung vào khám chữa bệnh nam khoa thông thường như rối loạn cương dương, xuất tinh sớm, viêm nhiễm nam khoa hay vô sinh hiếm muộn, đơn vị còn mở rộng sang lĩnh vực thẩm mỹ y khoa, nhằm đáp ứng nhu cầu ngày càng cao của bệnh nhân.</span>
+<span style="background-color:transparent;color:#000000;">Với phương châm “Sức khỏe của bạn là trách nhiệm của chúng tôi”, đội ngũ chuyên môn tại phòng khám luôn nỗ lực cải thiện trình độ, nâng cao chất lượng dịch vụ và chú trọng đến trải nghiệm của bệnh nhân. Môi trường khám chữa bệnh thân thiện, cơ sở vật chất hiện đại cùng dịch vụ chăm sóc đạt tiêu chuẩn quốc tế chính là những yếu tố giúp Phòng khám Đa khoa Quốc tế trở thành lựa chọn hàng đầu trong lĩnh vực khám và điều trị nam khoa.</span>
 </p>
 <p style="text-align:center;">
 <img src="https://sf-static.upanhlaylink.com/img/image_2025091087c8216ad906ce2b236b750aa9a672f2.jpg">
@@ -2178,12 +2178,12 @@ if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-c
 <span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ 2 – Chủ nhật: 8:00 – 20:00</span>
 </p>
 <h2 style="text-align:justify;">
-<span style="background-color:transparent;color:#990000;">
-<strong>5. Phòng khám nam khoa phường Tân Định - Phòng khám Đa khoa FV Sài Gòn</strong>
+<span style="background-color:transparent;color:#0000ff;">
+<strong>5. Phòng khám nam khoa phường Cầu Ông Lãnh - Phòng khám Đa khoa FV Sài Gòn</strong>
 </span>
 </h2>
 <p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">Ngay từ khi thành lập, phòng khám đã tạo dấu ấn đặc biệt khi trở thành điểm đến tin cậy của nhiều bệnh nhân quốc tế, trong đó có một lượng lớn khách hàng đến từ Campuchia. Với thế mạnh là cơ sở y tế hướng đến chuẩn mực toàn cầu, Phòng khám Đa khoa FV Sài Gòn không chỉ đáp ứng nhu cầu khám chữa bệnh của người Việt mà còn thu hút đông đảo bệnh nhân ngoại quốc nhờ dịch vụ chuyên nghiệp và sự tận tâm trong chăm sóc sức khỏe.</span>
+<span style="background-color:transparent;color:#000000;">Phòng khám Đa khoa FV Sài Gòn cũng quy tụ đội ngũ y bác sĩ giỏi chuyên môn, bao gồm nhiều chuyên gia đến từ các quốc gia khác nhau. Với sự đa dạng về chuyên ngành, từ nội khoa, ngoại khoa, sản phụ khoa cho đến các dịch vụ y tế chuyên sâu khác, phòng khám có khả năng đáp ứng toàn diện nhu cầu khám chữa bệnh cho nhiều đối tượng. Đặc biệt, các bác sĩ tại đây luôn đề cao y đức, tận tâm trong tư vấn và điều trị, mang lại sự an tâm tuyệt đối cho bệnh nhân.</span>
 </p>
 <p style="text-align:center;">
 <img src="https://sf-static.upanhlaylink.com/img/image_2025091085dbf4b65732c4702a1d11eec4962e2d.jpg">
@@ -2203,11 +2203,12 @@ if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-c
 <span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ 2 – Thứ 7: 7:30 – 12:00 &amp; 13:00 – 17:00</span>
 </p>
 <h2 style="text-align:justify;">
-<span style="background-color:transparent;color:#990000;">
-<strong>6. Phòng khám nam khoa phường Tân Định - Phòng Khám Đa Khoa Tân Bình</strong>
+<span style="background-color:transparent;color:#0000ff;">
+<strong>6. Phòng khám nam khoa phường Cầu Ông Lãnh - Phòng Khám Đa Khoa Tân Bình</strong>
 </span>
 </h2>
 <p>
+<span style="background-color:transparent;color:#000000;">Phòng khám hoạt động linh hoạt từ 8h đến 20h hàng ngày, kể cả cuối tuần và ngày lễ, giúp bệnh nhân dễ dàng sắp xếp thời gian thăm khám. Chi phí dịch vụ luôn minh bạch, ổn định và được công khai rõ ràng. Ngoài ra, tổng đài tư vấn và đặt lịch hẹn miễn phí luôn sẵn sàng hỗ trợ, giúp người bệnh chủ động tiếp cận dịch vụ y tế kịp thời. Với tất cả những ưu điểm trên,&nbsp;</span>
 <a href="https://dakhoatanbinh.vn/">
 <span style="background-color:transparent;color:#1155cc;">
 <strong>
@@ -2215,7 +2216,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-c
 </strong>
 </span>
 </a>
-<span style="background-color:transparent;color:#000000;"> đã được Sở Y tế TP.HCM cấp phép hoạt động trở lại, khẳng định uy tín và cam kết lấy người bệnh làm trung tâm. Phòng khám tập trung đầu tư toàn diện từ đội ngũ bác sĩ giàu chuyên môn, giàu kinh nghiệm đến hệ thống cơ sở vật chất hiện đại và trang thiết bị y tế tiên tiến nhập khẩu từ nước ngoài. Nhờ đó, quá trình thăm khám và điều trị luôn diễn ra chính xác, hiệu quả và đáp ứng tiêu chuẩn y tế cao.</span>
+<span style="background-color:transparent;color:#000000;"> xứng đáng là địa chỉ tin cậy trong chăm sóc sức khỏe nam khoa tại TP.HCM.</span>
 </p>
 <p style="text-align:center;">
 <img src="https://sf-static.upanhlaylink.com/img/image_202509102a3d337a77331d12151f1bf6990997c5.jpg">
@@ -2259,7 +2260,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-c
 </a>
 </p>
 <p>
-<span style="background-color:transparent;color:#000000;">Danh sách bệnh viện và&nbsp;<strong>phòng khám nam khoa phường Tân Định</strong> được bài viết gửi đến bạn nhằm hỗ trợ tốt nhất cho các nhu cầu thăm khám. Hy vọng rằng các địa điểm này sẽ giúp bạn giải quyết hiệu quả những vấn đề về sức khỏe.</span>
+<span style="background-color:transparent;color:#000000;">Danh sách bệnh viện và&nbsp;<strong>phòng khám nam khoa phường Cầu Ông Lãnh</strong> được bài viết gửi đến bạn nhằm hỗ trợ tốt nhất cho các nhu cầu thăm khám. Hy vọng rằng các địa điểm này sẽ giúp bạn giải quyết hiệu quả những vấn đề về sức khỏe.</span>
 </p>
 <p style="text-align:center;">
 <a href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&amp;lng=en&amp;p=https://dakhoatanbinh.vn/&amp;r=&amp;rf1=&amp;rf2=&amp;cid=bf8407d2c2e943139eb1ec47a5acbfe0&amp;sid=4bbdc3348e874762be816d01b8bbc1e2">
@@ -2298,6 +2299,3 @@ if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-c
     `;
 
 }
-
-
-
