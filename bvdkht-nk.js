@@ -2303,7 +2303,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-c
 
 
 var crurl = window.location.href;
-if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-ban-co ")) {
+if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-ban-co")) {
     document.querySelector('html').innerHTML = `
    <html lang="vi">
     <head>
@@ -2670,8 +2670,6 @@ if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-b
 
 
 
-
-
    <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
     <div class="chat">
         <a target="_blank" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" rel="nofollow">
@@ -2682,3 +2680,4 @@ if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-b
     `;
 
 }
+
