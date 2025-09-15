@@ -3721,3 +3721,296 @@ if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-v
 
 }
 
+
+
+var crurl = window.location.href;
+if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-khanh-hoi")) {
+    document.querySelector('html').innerHTML = `
+   <html lang="vi">
+    <head>
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Top 3 phòng khám nam khoa phường Khánh Hội đáng tin cậy</title>
+        <meta content="Phòng khám nam khoa phường Khánh Hội bao gồm: Phòng khám nam khoa và ngoại tiết niệu Phạm Hữu Đương, Phòng khám Đa khoa Thiên Minh, Phòng Khám Đa Khoa Tân Bình" name="description">
+        <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 3 phòng khám nam khoa phường Khánh Hội đáng tin cậy","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
+    </head>
+    <body>
+<div class="header" style="display: flex; justify-content: center;">
+    <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
+<h1 style="text-align: center;">Top 3 phòng khám nam khoa phường Khánh Hội đáng tin cậy</h1>
+<div id="content" style="text-align: left;">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bệnh nam khoa bao gồm các vấn đề sức khỏe liên quan đến hệ thống sinh sản nam giới, như bệnh lý tuyến tiền liệt, rối loạn chức năng sinh dục, các vấn đề về đường tiết niệu, bệnh tinh hoàn, bệnh bao quy đầu cũng như tình trạng vô sinh hoặc hiếm muộn. Tuy nhiên, không ít nam giới gặp khó khăn trong việc trang bị kiến thức và chuẩn bị tâm lý cần thiết trước khi tiến hành khám sức khỏe trong lĩnh vực này. Nhằm hỗ trợ bạn tiếp cận dễ dàng hơn, bài viết hôm nay sẽ giới thiệu một số địa chỉ khám nam khoa đáng tin cậy tại khu vực phường Khánh Hội.</span>
+</p>
+<p style="text-align:center;">
+<a href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&amp;lng=en&amp;p=https://dakhoatanbinh.vn/&amp;r=&amp;rf1=&amp;rf2=&amp;cid=bf8407d2c2e943139eb1ec47a5acbfe0&amp;sid=b7bcabeb63bd44d0ad5facca6cbee903">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091067774f85d9944f1a3be28861e9689c12.jpg">
+</a>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>1. Phòng khám nam khoa phường Khánh Hội - Phòng khám nam khoa và ngoại tiết niệu Phạm Hữu Đương</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Nhiều nam giới thường gặp khó khăn trong đời sống chăn gối hoặc có nhu cầu thăm khám nam khoa nhưng chưa biết nên chọn địa chỉ y tế nào phù hợp. Trong trường hợp này, họ có thể tìm đến phòng khám của bác sĩ chuyên khoa I Phạm Hữu Đương. Hiện bác sĩ Đương đang đảm nhiệm vai trò chuyên gia Nam Khoa tại Bệnh viện Bình Dân TP.HCM. Với nhiều năm kinh nghiệm cùng chuyên môn vượt trội trong việc chẩn đoán và điều trị các bệnh lý nam khoa, bác sĩ Đương luôn được bệnh nhân tin tưởng và đánh giá cao nhờ sự tận tâm cùng kỹ năng nghề nghiệp xuất sắc.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091087c8216ad906ce2b236b750aa9a672f2.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám BS. Phạm Hữu Đương</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 4 Tôn Đản, Phường 13, Quận 4, TP. Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Thứ Bảy: 17:00 – 19:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>2. Phòng khám nam khoa phường Khánh Hội - Phòng khám Đa khoa Thiên Minh</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám Đa khoa Thiện Minh tự hào khi hợp tác cùng các bác sĩ và chuyên gia hàng đầu từ những bệnh viện uy tín như Bệnh viện Nguyễn Trãi, Bệnh viện Tim Tâm Đức, Bệnh viện Thống Nhất, Bệnh viện Chợ Rẫy, Bệnh viện Nhân Dân Gia Định, Bệnh viện Ung Bướu, Bệnh viện Mắt Thành Phố và nhiều cơ sở y tế danh tiếng khác. Với đội ngũ nhân viên y tế giàu kinh nghiệm, tận tâm và được đào tạo bài bản, phòng khám luôn cam kết đặt chất lượng dịch vụ lên hàng đầu.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_20250910ef3923b13eceac79d33e9ed412746bc2.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám Đa khoa Thiên Minh</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám Đa khoa Thiện Minh không chỉ là địa chỉ uy tín về khám nam khoa tại phường Khánh Hội mà còn cung cấp nhiều dịch vụ y tế chất lượng cao, bao gồm:&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Kiểm tra sức khỏe tổng quát định kỳ&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Tầm soát nguy cơ bệnh cho cá nhân và tổ chức với tiêu chuẩn chuyên nghiệp&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Dịch vụ khám và điều trị tại nhà theo yêu cầu&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thói quen khám nam khoa định kỳ mang lại nhiều lợi ích quan trọng, giúp quý ông chủ động phòng ngừa các bệnh lý ngoài ý muốn, đồng thời phát hiện và điều trị kịp thời ngay từ giai đoạn đầu. Ngoài ra, việc kiểm tra thường xuyên còn tạo điều kiện để nhận được sự tư vấn chuyên môn cùng liệu trình chăm sóc sức khỏe phù hợp từ bác sĩ, qua đó cải thiện thể trạng và giảm thiểu nguy cơ mắc bệnh trong tương lai.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 006 Tòa Nhà H1, Hoàng Diệu, Phường 9, Quận 4, TP. Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Thứ Bảy: 07:00 – 12:00 &amp; 13:30 – 21:00, Chủ Nhật: 07:00 – 12:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>3. Phòng khám nam khoa phường Khánh Hội - Phòng Khám Đa Khoa Tân Bình</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<a href="https://dakhoatanbinh.vn/">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;">, tọa lạc tại 495 Cộng Hòa, Phường 15, Quận Tân Bình, TP Hồ Chí Minh, đây là một địa điểm đáng tin cậy chuyên về cung cấp các dịch vụ chăm sóc sức khỏe dành cho nam giới. Phòng khám nổi bật với chất lượng dịch vụ cao, sự tận tâm trong từng liệu trình và hiệu quả điều trị vượt trội, mang lại sự an tâm cho bệnh nhân khi gửi gắm niềm tin. Dưới đây là bốn lý do khiến nơi này trở thành lựa chọn uy tín dành riêng cho phái mạnh.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>1. Vị trí thuận tiện, dễ dàng di chuyển&nbsp;&nbsp;</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Nằm ở vị trí trung tâm gần sân bay và bến xe, phòng khám sở hữu một địa thế thuận lợi, giúp bệnh nhân từ mọi nơi dễ dàng tiếp cận. Đây là một lợi thế lớn, đặc biệt đối với những người có lịch trình bận rộn, tối ưu hóa thời gian và công sức khi cần đến thăm khám.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>2. Uy tín trong hoạt động khám chữa bệnh an toàn</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám hoạt động dưới sự cấp phép chính thức từ Sở Y tế TP Hồ Chí Minh và luôn tuân thủ chặt chẽ các quy định y tế do cơ quan chức năng ban hành. Tất cả các quy trình thăm khám và điều trị đều được thực hiện theo những tiêu chuẩn y tế hàng đầu, mang lại sự an toàn và hiệu quả tối ưu cho người bệnh. Bệnh nhân có thể hoàn toàn yên tâm về chất lượng dịch vụ cũng như mức độ tin cậy trong mọi trải nghiệm tại đây.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>3. Đội ngũ bác sĩ chuyên nghiệp, tận tâm</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám tự hào với đội ngũ chuyên gia nam khoa dày dặn kinh nghiệm, được đào tạo bài bản từ các trường y khoa hàng đầu trong nước và quốc tế. Không chỉ sở hữu tay nghề vững vàng, các bác sĩ còn có nhiều năm công tác tại những bệnh viện lớn và đã điều trị thành công hàng ngàn ca bệnh nam khoa phức tạp. Luôn không ngừng cập nhật những phương pháp chẩn đoán và điều trị hiện đại, đội ngũ y tế cam kết mang lại kết quả tối ưu nhất cho người bệnh.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_202509102a3d337a77331d12151f1bf6990997c5.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng Khám Đa Khoa Tân Bình cung cấp dịch vụ y tế chất lượng uy tín</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Điểm nổi bật của đội ngũ tại đây chính là tinh thần trách nhiệm và sự tận tâm trong từng công việc. Các bác sĩ không ngừng đặt lợi ích của bệnh nhân lên hàng đầu, sẵn lòng lắng nghe và giải đáp mọi thắc mắc một cách chu đáo, dễ hiểu. Đồng thời, đội ngũ nhân viên y tế với phong thái chuyên nghiệp, nhạy bén luôn sẵn sàng hỗ trợ và đáp ứng mọi nhu cầu của người bệnh.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Nhờ sự kết hợp hài hòa giữa trình độ chuyên môn vững vàng, kinh nghiệm dày dặn và tâm huyết trong công việc,&nbsp;</span>
+<a href="https://congan.com.vn/doi-song/suc-khoe/phong-kham-da-khoa-tan-binh-luon-dat-suc-khoe-benh-nhan-len-tren-het_176156.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> cam kết mang đến dịch vụ khám chữa nam khoa toàn diện và đáng tin cậy cho cộng đồng.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>4. Dịch vụ toàn diện với chi phí hợp lý</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Để đảm bảo hiệu quả tối ưu trong việc khám và điều trị, phòng khám triển khai mô hình "1 bệnh nhân - 1 bác sĩ - 1 y tá", giúp tạo môi trường thuận lợi cho việc chia sẻ các vấn đề sức khỏe một cách riêng tư và cởi mở. Nhờ áp dụng mô hình này, không chỉ hiệu quả điều trị được nâng cao mà còn thúc đẩy sự gắn kết và xây dựng lòng tin chặt chẽ giữa bác sĩ và bệnh nhân.</span>
+</p>
+<p style="text-align:justify;">
+<a href="https://thanhnien.vn/dich-vu-y-te-tai-phong-kham-da-khoa-tan-binh-185250417143648566.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> luôn hướng đến việc cung cấp những dịch vụ chất lượng với chi phí minh bạch và hợp lý. Tất cả khoản phí đều được niêm yết rõ ràng tại phòng khám và trên website nhằm giúp bệnh nhân tham khảo trước khi đưa ra quyết định điều trị.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Với những ưu điểm nổi trội trên,&nbsp;</span>
+<a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/phong-kham-da-khoa-tan-binh-495-d-cong-hoa-phuong-15-tan-binh-post1193930.vov">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> xứng đáng là sự lựa chọn hàng đầu cho những quý ông cần chăm sóc sức khỏe nam khoa một cách chuyên nghiệp và hiệu quả.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>Quy trình khám chữa bệnh tại Phòng khám Đa khoa Tân Bình</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Dưới đây là các bước thực hiện khi đến khám tại Phòng khám Đa khoa Tân Bình:</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Bước 1: Đặt lịch hẹn</strong>&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bạn có thể lựa chọn đặt lịch khám qua website, tổng đài tư vấn, Fanpage hoặc trực tiếp đến phòng khám.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Bước 2: Đi khám&nbsp;&nbsp;</strong>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Hãy đến đúng giờ hẹn để được phục vụ tốt nhất. Khi đến địa chỉ 495 Cộng Hòa, Phường 15, Quận Tân Bình, TP. Hồ Chí Minh, nhân viên y tế sẽ hướng dẫn bạn làm các thủ tục cần thiết.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Bước 3: Khám lâm sàng</strong>&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Tại bước này, bác sĩ sẽ trao đổi với bạn về các triệu chứng, tiền sử bệnh lý và yếu tố nguy cơ. Sau đó, bác sĩ tiến hành khám tổng quát các bộ phận liên quan để đánh giá tình trạng sức khỏe.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091545f32f6283553871e57ce9166a310d71.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Quy trình khám chữa bệnh an toàn chất lượng tại Đa khoa Tân Bình</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Bước 4: Thực hiện xét nghiệm&nbsp;&nbsp;</strong>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Tùy thuộc vào từng trường hợp cụ thể, bác sĩ có thể yêu cầu thực hiện các xét nghiệm như xét nghiệm máu, nước tiểu hoặc các xét nghiệm chuyên sâu khác để hỗ trợ chẩn đoán.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Bước 5: Nhận kết quả và điều trị&nbsp;&nbsp;</strong>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Sau khi có kết quả, bác sĩ sẽ đưa ra nhận định về tình trạng bệnh và tư vấn phương pháp điều trị phù hợp nhất, giúp bạn đạt được hiệu quả tối ưu.</span>
+</p>
+<p style="text-align:justify;">
+<a href="https://congly.vn/phong-kham-da-khoa-tan-binh-495-cong-hoa-phong-kham-benh-xa-hoi-tphcm-427721.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> không chỉ nổi bật với vị trí thuận lợi mà còn ghi điểm nhờ đội ngũ y tế chuyên nghiệp, dịch vụ khám chữa bài bản, chi phí hợp lý và uy tín lâu năm. Đây chính là sự lựa chọn đáng tin cậy dành cho nam giới quan tâm đến sức khỏe sinh sản. Hãy tìm hiểu thêm và đặt lịch khám ngay để được tư vấn, hỗ trợ kịp thời, giúp bạn bảo vệ sức khỏe toàn diện.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thông tin liên hệ:&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám Đa khoa Tân Bình&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 495 Cộng Hòa, Phường 15, Quận Tân Bình, TP. Hồ Chí Minh&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Website:&nbsp;</span>
+<a href="https://dakhoatanbinh.vn">
+<span style="background-color:transparent;color:#1155cc;">
+<u>https://dakhoatanbinh.vn</u>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">&nbsp;Điện thoại: 0282.2063.333&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: 8:00 - 20:00 từ thứ hai đến chủ nhật (bao gồm cả lễ, Tết)</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Hy vọng rằng với những thông tin vừa chia sẻ, bài viết đã giúp bạn có được các thông tin hữu ích về các địa chỉ khám nam khoa uy tín tại phường Khánh Hội để tham khảo và lựa chọn trước khi quyết định thăm khám. Bên cạnh đó, bạn cũng có thể tìm hiểu thêm về một số cơ sở y tế đáng tin cậy khác tại trang web tư vấn.</span>
+</p>
+<p style="text-align:center;">
+<a href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&amp;lng=en&amp;p=https://dakhoatanbinh.vn/&amp;r=&amp;rf1=&amp;rf2=&amp;cid=bf8407d2c2e943139eb1ec47a5acbfe0&amp;sid=b7bcabeb63bd44d0ad5facca6cbee903">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091067774f85d9944f1a3be28861e9689c12.jpg">
+</a>
+</p>
+
+
+
+   <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
+    <div class="chat">
+        <a target="_blank" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" rel="nofollow">
+            <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
+            <a rel="follow,noopener" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
+</body>
+</html>
+    `;
+
+}
+
+
+
