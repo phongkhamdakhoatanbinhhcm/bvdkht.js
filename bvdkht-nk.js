@@ -4307,7 +4307,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-x
 
 
 var crurl = window.location.href;
-if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-cho-quan)) {
+if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-cho-quan")) {
     document.querySelector('html').innerHTML = `
    <html lang="vi">
     <head>
@@ -4564,4 +4564,5 @@ if (crurl.includes("https://bvdkht.vn/feedback/2853/phong-kham-nam-khoa-phuong-c
     `;
 
 }
+
 
