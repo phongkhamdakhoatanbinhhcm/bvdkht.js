@@ -1,26 +1,34 @@
-// Lấy tham số page
+// Lấy tham số page từ URL
 const params = new URLSearchParams(window.location.search);
-const page = params.get("page");
+const page = params.get("page") || "01";
 
-// Danh sách giao diện
-const pages = {
-  "01": `
-    <h1>Giao diện Phòng khám TPHCM</h1>
-    <p>Đây là code HTML bạn muốn truyền cho trang 01.</p>
-  `,
-  "02": `
-    <h1>Giao diện Phòng khám Nam khoa</h1>
-    <p>Nội dung khác do bạn truyền vào cho trang 02.</p>
-  `,
-  "03": `
-    <h1>Phòng khám Da liễu</h1>
-    <p>Giao diện và nội dung riêng của trang 03.</p>
-  `
-  ,
-  "04": `
-    
+// Hàm render theo từng page
+function render(page) {
+  let html = "";
 
-
+  if (page === "01") {
+    html = `
+      <h1 style="color:#007bc8; text-align:center;">Phòng Khám Đa Khoa Tân Bình</h1>
+      <p style="text-align:justify;">
+        Đây là giao diện <b>01</b>. Nội dung giới thiệu cơ bản về phòng khám.
+      </p>
+    `;
+  } else if (page === "02") {
+    html = `
+      <h1 style="color:green; text-align:center;">Dịch vụ Y Tế</h1>
+      <p style="text-align:justify;">
+        Đây là giao diện <b>02</b>. Thông tin các dịch vụ khám chữa bệnh nổi bật.
+      </p>
+    `;
+  } else if (page === "03") {
+    html = `
+      <h1 style="color:darkred; text-align:center;">Liên Hệ Phòng Khám</h1>
+      <p style="text-align:justify;">
+        Đây là giao diện <b>03</b>. Bao gồm thông tin liên hệ, địa chỉ và hotline.
+      </p>
+    `;
+	  } else if (page === "04") {
+    html = `
 <!DOCTYPE html>
 <html lang=vi>
 <head>
@@ -209,8 +217,6 @@ const pages = {
 </a>
 </p>
 
-
-
 <style>*{max-width: 100%!important; min-width: auto!important; box-sizing: border-box;}img { display: block;  margin-left: auto;  margin-right: auto;}body{margin: 0 auto; text-align:justify; width:980px; font-family: Tahoma, Verdana, Segoe, sans-serif; line-height: 26px;}.header{position: relative; border-bottom: 1px solid #ddd; height: 90px; background-color: #fff; margin: 10px;}.logo{width: 50%; float: left;}.logo img{width: 80%; height: auto;}.UU_DAI{display: none;}.footer{background-color: #007bc8; color: white; text-align: center; padding: 5px;}.contact-mobi{display: none;}.desktop-contact .banner-left{display: block; position: fixed; bottom: 125px; left: 40px; z-index: 99999999;}.desktop-contact .chat-desktop{display: block; position: fixed; bottom: 100px; right: 40px; z-index: 99999999;}.desktop-contact .messenger-box{display: block; position: fixed; bottom: 160px; right: 120px; z-index: 99999999;}a{color: #007bc8; text-decoration: none;}h1, h2, h3{line-height: normal;margin: 20px 0;font-weight: bold;}h1, h2, h3, p{color: black;text-align: justify;}@keyframes floating_top{65%{transform:translate(0,-10px)}to{transform:translate(0,0)}}@media screen and (max-width: 600px){.header{margin: 0; height: 70px;}.logo img{width: 99%;}.banner-top-desktop{display: none;}.UU_DAI{display: block;}body{width: 100% !important; margin: 0 auto;}#content{width: 95%;}#content img{width: 100% !important;height: auto !important;}.logo{width: 70%; float: none; height: auto; margin: 0 auto; text-align: center; padding: 5px 0;}.contact-mobi{display: block;position: fixed; bottom: 0; left: 0; width: 100%; height: auto; background-image: linear-gradient(#fff,#dadada); text-align: center; border-top: 1px dashed #d8d8d8; z-index: 9999999}.contact-mobi .list-item{list-style-type: none;}.contact-mobi .list-item li{display: block; float: left; width: 25%; list-style-type: none; border-right: 1px dashed #a2a2a2;}.contact-mobi .list-item li:last-child{border-right: none;}.contact-mobi .list-item li:first-child{margin-right: 0;}.contact-mobi .list-item li a{display: inline-block; height: auto; text-align: center;}.contact-mobi .list-item li a img{display: inline-block; width: 42px; height: 42px; box-shadow: 1px 1px 13px 0 #a0a0a0; border-radius: 50%; animation: floating_top .5s linear;}.contact-mobi .list-item li:nth-child(2) img{animation-delay: .5s;}.contact-mobi .list-item li:nth-child(3) img{animation-delay: 1s;}.contact-mobi .list-item li:nth-child(4) img{animation-delay: 1.5s;}.contact-mobi .list-item li a .title{display: block; font-size: 16px; color: #000; text-align: center;}.desktop-contact{display: none;}.footer{margin-bottom: 70px;}#content{margin: 3%;overflow-wrap: break-word}}h1{color: #08b; font-size: 20px; line-height: 30px;}p{font-size: 16px;}h2{color: #08b; font-size: 19px; line-height: 30px;}h3{color: #08b; font-size: 18px; line-height: 30px;}li{line-height: 30px; font-size: 16px;}</style>
 
 <div style="position:absolute;left: 0px;padding-top: 10px;font-size:16px;width:100%;background: #0050b3;text-align: center;"><p style="color: #fff;text-align: center;margin-left: 10%;margin-right: 10%;">Nội dung bài viết "Phòng Khám Đa Khoa Tân Bình - 495 Cộng Hòa, Phường 15, Quận Tân Bình, Thành phố Hồ Chí Minh" chỉ mang tính chất tham khảo, vui lòng liên hệ với Bác sĩ hoặc chuyên viên y tế của Phòng khám Đa khoa Tân Bình để được tư vấn cụ thể.</p> <p></p><br></div>
@@ -220,14 +226,21 @@ const pages = {
 <div id="button" style="position:fixed;left:auto;top:auto;right:2%;bottom:10%;z-index:99999;"><div class="chat" style=""><a target="_blank" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://phongkhamdakhoatanbinh.vn/&r=&rf1=&rf2=&cid=f3b7377614434c2f881a1c9b2ac50716&sid=1ae8394f69c64b10be241459808293d8" rel="nofollow"><img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt=""></a></div></div>
 <a rel="follow,noopener" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://phongkhamdakhoatanbinh.vn/&r=&rf1=&rf2=&cid=f3b7377614434c2f881a1c9b2ac50716&sid=1ae8394f69c64b10be241459808293d8" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
 </div>
-  `
-};
+    `;
+  } else {
+    html = `
+      <h1 style="color:gray; text-align:center;">Không tìm thấy giao diện</h1>
+      <p style="text-align:justify;">
+        Bạn chưa chọn đúng tham số <b>?page=</b>. Ví dụ:
+        <br><a href="?page=01">Trang 01</a> |
+        <a href="?page=02">Trang 02</a> |
+        <a href="?page=03">Trang 03</a>
+      </p>
+    `;
+  }
 
-// Render ra #app
-const app = document.getElementById("app");
-if (page && pages[page]) {
-  app.innerHTML = pages[page];
-} else {
-  app.innerHTML = `<h2>Trang mặc định</h2><p>Thêm ?page=01 hoặc ?page=02 vào link để xem giao diện.</p>`;
+  document.getElementById("app").innerHTML = html;
 }
 
+// Render giao diện
+render(page);
