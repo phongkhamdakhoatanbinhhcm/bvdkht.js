@@ -19,9 +19,6 @@ var pages = {
     <p>Nội dung HTML tùy chỉnh cho trang 04.</p>
   `,
   "05": `
-    
-
-
 <!DOCTYPE html>
 <html lang=vi>
 <head>
@@ -238,4 +235,5 @@ function renderPage() {
 
 // Gọi khi load trang
 renderPage();
+
 
