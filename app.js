@@ -1,33 +1,33 @@
-// Lấy tham số page từ URL
-const params = new URLSearchParams(window.location.search);
-const page = params.get("page") || "01";
-
-// Hàm render theo từng page
 function render(page) {
   let html = "";
+  let title = "Phòng Khám TPHCM"; // mặc định
 
   if (page === "01") {
+    title = "Phòng Khám Đa Khoa Tân Bình";
     html = `
-      <h1 style="color:#007bc8; text-align:center;">Phòng Khám Đa Khoa Tân Bình</h1>
+      <h1 style="color:#007bc8; text-align:center;">${title}</h1>
       <p style="text-align:justify;">
         Đây là giao diện <b>01</b>. Nội dung giới thiệu cơ bản về phòng khám.
       </p>
     `;
   } else if (page === "02") {
+    title = "Dịch vụ Y Tế Phòng Khám";
     html = `
-      <h1 style="color:green; text-align:center;">Dịch vụ Y Tế</h1>
+      <h1 style="color:green; text-align:center;">${title}</h1>
       <p style="text-align:justify;">
         Đây là giao diện <b>02</b>. Thông tin các dịch vụ khám chữa bệnh nổi bật.
       </p>
     `;
   } else if (page === "03") {
+    title = "Liên Hệ Phòng Khám";
     html = `
-      <h1 style="color:darkred; text-align:center;">Liên Hệ Phòng Khám</h1>
+      <h1 style="color:darkred; text-align:center;">${title}</h1>
       <p style="text-align:justify;">
         Đây là giao diện <b>03</b>. Bao gồm thông tin liên hệ, địa chỉ và hotline.
       </p>
     `;
-	  } else if (page === "04") {
+  } else if (page === "04") {
+    title = "Giới Thiệu Đội Ngũ Bác Sĩ Giỏi Ở Phòng Khám Đa Khoa Tân Bình";
     html = `
 <!DOCTYPE html>
 <html lang=vi>
@@ -35,8 +35,8 @@ function render(page) {
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <meta charset="utf-8">
 <meta name="google-site-verification" content="eEE2YAwr4yLo_IKZBoQ9Uq2g5XrIIoXBC-euYuqT3PM" />
-<title>Đội Ngũ Bác Sĩ Giỏi Khám Nam Khoa Uy Tín Ở Đa Khoa Tân Bình</title>
-<meta content="Đa khoa Tân Bình đang là phòng khám nam khoa tphcm có chất lượng cao nhưng chi phí lại cực kì hợp lý" name="description"/>
+<title>Giới Thiệu Đội Ngũ Bác Sĩ Giỏi Ở Phòng Khám Đa Khoa Tân Bình</title>
+<meta content="Phòng Khám Đa Khoa Tân Bình hội tụ đội ngũ y bác sĩ chuyên khoa giàu kinh nghiệm" name="description"/>
   <meta name="google-site-verification" content="pYIzbyzVGap27XvvF1a-HVdQTdwpL_dEmEysGnDBobA" />
 <script src="https://v.timduongdi.com/46609.js"></script>
 <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
@@ -44,7 +44,7 @@ function render(page) {
     <script type="application/ld+json">
       {"@context": "https://schema.org/",	
   	"@type": "CreativeWorkSeason",	
-  	"name": "Đội Ngũ Bác Sĩ Giỏi Khám Nam Khoa Uy Tín Ở Đa Khoa Tân Bình",	
+  	"name": "Giới Thiệu Đội Ngũ Bác Sĩ Giỏi Ở Phòng Khám Đa Khoa Tân Bình",	
   	"aggregateRating": {	
   	"@type": "AggregateRating",	
   	"ratingValue": "9.9",	
@@ -59,7 +59,7 @@ function render(page) {
 <span style="background-color:transparent;color:#274e13;">
 <h1 style="text-align:justify;">
 <span style="background-color:transparent;color:#274e13;">
-<strong>Đội Ngũ Bác Sĩ Giỏi Khám Nam Khoa Uy Tín Ở Đa Khoa Tân Bình</strong>
+<strong>Giới Thiệu Đội Ngũ Bác Sĩ Giỏi Ở Phòng Khám Đa Khoa Tân Bình</strong>
 </span>
 </h1>
 
@@ -228,8 +228,9 @@ function render(page) {
 </div>
     `;
   } else {
+    title = "Không tìm thấy giao diện";
     html = `
-      <h1 style="color:gray; text-align:center;">Không tìm thấy giao diện</h1>
+      <h1 style="color:gray; text-align:center;">${title}</h1>
       <p style="text-align:justify;">
         Bạn chưa chọn đúng tham số <b>?page=</b>. Ví dụ:
         <br><a href="?page=01">Trang 01</a> |
@@ -239,8 +240,8 @@ function render(page) {
     `;
   }
 
+  // Cập nhật title của trang theo H1
+  document.title = title;
+
   document.getElementById("app").innerHTML = html;
 }
-
-// Render giao diện
-render(page);
