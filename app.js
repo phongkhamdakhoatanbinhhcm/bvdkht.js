@@ -1,3 +1,7 @@
+// Lấy tham số page từ URL
+const params = new URLSearchParams(window.location.search);
+const page = params.get("page") || "01";
+
 function render(page) {
   let html = "";
   let title = "Phòng Khám TPHCM"; // mặc định
