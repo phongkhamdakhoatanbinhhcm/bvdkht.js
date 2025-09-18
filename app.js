@@ -21,6 +21,7 @@ function render(page) {
       </p>
     `;
   } else if (page === "03") {
+	title = "Phòng Khám Đa Khoa";
     html = `
       <h1 style="color:darkred; text-align:center;">Liên Hệ Phòng Khám</h1>
       <p style="text-align:justify;">
@@ -244,4 +245,5 @@ function render(page) {
 
 // Render giao diện
 render(page);
+
 
