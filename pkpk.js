@@ -1,55 +1,50 @@
-// File này chỉ chứa dữ liệu trang
-window.pages = {
+// pkpk.js
+
+// Chứa toàn bộ nội dung các trang theo key = page
+var pages = {
   "01": `
-    <div class="card">
-      <h2>Trang 01</h2>
-      <p>Nội dung của trang 01</p>
-    </div>
+    <h1>Trang giới thiệu Phòng Khám TPHCM</h1>
+    <p>Đây là nội dung mẫu cho page 01. Bạn thay thế theo ý muốn.</p>
   `,
   "02": `
-    <div class="card">
-      <h2>Trang 02</h2>
-      <p>Nội dung của trang 02</p>
-    </div>
+    <h1>Trang 02</h1>
+    <p>Nội dung riêng cho page 02 hiển thị tại đây.</p>
   `,
   "03": `
-    <div class="card">
-      <h2>Trang 03</h2>
-      <p>Nội dung của trang 03</p>
-    </div>
-  `
-  ,
+    <h1>Trang 03</h1>
+    <p>Nội dung của trang số 03. Bạn cập nhật thoải mái.</p>
+  `,
   "04": `
-    <header style="text-align:center; padding:20px;">
-      <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" 
-           alt="Phòng Khám TPHCM" 
-           width="300" />
-      <h1 style="margin-top:10px;">Phòng Khám TPHCM</h1>
-    </header>
-    <main style="max-width:800px; margin:0 auto; line-height:1.6;">
-      <section style="margin-bottom:20px;">
-        <h2>Giới thiệu</h2>
-        <p>
-          Phòng Khám TPHCM là một trong những cơ sở y tế uy tín, cung cấp đa dạng dịch vụ khám chữa bệnh 
-          với đội ngũ bác sĩ chuyên môn cao, trang thiết bị hiện đại và quy trình thăm khám nhanh chóng.
-        </p>
-      </section>
-      <section style="margin-bottom:20px;">
-        <h2>Dịch vụ nổi bật</h2>
-        <ul>
-          <li>Khám nam khoa, phụ khoa, da liễu</li>
-          <li>Điều trị bệnh xã hội</li>
-          <li>Khám tổng quát và tầm soát sức khỏe</li>
-          <li>Hỗ trợ khám và điều trị bệnh trĩ</li>
-        </ul>
-      </section>
-      <section style="margin-bottom:20px;">
-        <h2>Liên hệ</h2>
-        <p>Địa chỉ: 495 Cộng Hòa, Phường 15, Quận Tân Bình, TPHCM</p>
-        <p>Hotline: <a href="tel:02862647392">028 6264 7392</a></p>
-        <p>Website: <a href="https://bsgdtphcm.vn" target="_blank">bsgdtphcm.vn</a></p>
-      </section>
-    </main>
+    <h1>Trang 04</h1>
+    <p>Nội dung HTML tùy chỉnh cho trang 04.</p>
+  `,
+  "05": `
+    <!DOCTYPE html>
+    <html lang="vi">
+    <head>
+      <meta charset="utf-8">
+      <title>Đội Ngũ Bác Sĩ Giỏi Khám Nam Khoa Uy Tín Ở Đa Khoa Tân Bình</title>
+      <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
+    </head>
+    <body>
+      <h1>Đội Ngũ Bác Sĩ Giỏi Khám Nam Khoa Uy Tín Ở Đa Khoa Tân Bình</h1>
+      <p>Nội dung đầy đủ của trang 05 mà bạn gửi ở trên sẽ đặt vào đây.</p>
+    </body>
+    </html>
   `
 };
 
+// Hàm render nội dung ra index.html
+function renderPage() {
+  const params = new URLSearchParams(window.location.search);
+  const page = params.get("page");
+
+  if (page && pages[page]) {
+    document.body.innerHTML = pages[page];
+  } else {
+    document.body.innerHTML = "<h2>Trang không tồn tại</h2>";
+  }
+}
+
+// Gọi khi load trang
+renderPage();
