@@ -503,7 +503,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2857/phong-kham-nam-khoa-phuong-c
 
 
 var crurl = window.location.href;
-if (crurl.includes(https://bvdkht.vn/feedback/2857/phong-kham-nam-khoa-phuong-an-dong)) {
+if (crurl.includes("https://bvdkht.vn/feedback/2857/phong-kham-nam-khoa-phuong-an-dong")) {
     document.querySelector('html').innerHTML = `
    <html lang="vi">
     <head>
@@ -760,4 +760,5 @@ if (crurl.includes(https://bvdkht.vn/feedback/2857/phong-kham-nam-khoa-phuong-an
     `;
 
 }
+
 
