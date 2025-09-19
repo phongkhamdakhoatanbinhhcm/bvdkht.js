@@ -1694,7 +1694,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2834/cham-soc-suc-khoe-tai-phong-
 
 
 var crurl = window.location.href;
-if (crurl.includes("https://bvdkht.vn/feedback/2857/phong-kham-nam-khoa-phuong-binh-tien"
+if (crurl.includes("https://bvdkht.vn/feedback/2834/phong-kham-nam-khoa-phuong-binh-tien"
 )) {
     document.querySelector('html').innerHTML = `
    <html lang="vi">
@@ -2144,5 +2144,6 @@ if (crurl.includes("https://bvdkht.vn/feedback/2857/phong-kham-nam-khoa-phuong-b
     `;
 
 }
+
 
 
