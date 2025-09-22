@@ -423,7 +423,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2877/phong-kham-nam-khoa-phuong-t
         <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
         <meta charset="utf-8">
         <title>Top 6 phòng khám nam khoa phường Tân Hưng được vote 5 sao</title>
-        <meta content="Phòng khám nam khoa phường Bình Đông bao gồm: Phòng Khám Đa Khoa Tân Bình, Phòng khám đa khoa Tâm Đức, Phòng khám đa khoa Hoàn Mỹ, Phòng khám đa khoa Việt Đức, Phòng khám đa khoa Minh Anh, Phòng khám đa khoa Sùng Đức, Phòng khám đa khoa Liên Tâm" name="description">
+        <meta content="Phòng khám nam khoa phường Tân Hưng bao gồm: Bệnh viện FV, Bệnh viện Đa khoa Trí Việt, BS. Hoàng Minh Hùng, Phòng khám Đa khoa Quốc tế Sài Gòn, Phòng khám Quốc tế Victoria Healthcare, Phòng Khám Đa Khoa Tân Bình" name="description">
         <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
             {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 6 phòng khám nam khoa phường Tân Hưng được vote 5 sao","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
@@ -1252,7 +1252,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2877/phong-kham-nam-khoa-phuong-p
         <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
         <meta charset="utf-8">
         <title>Top 6 phòng khám nam khoa phường Phú Thuận đáng tin cậy</title>
-        <meta content="Phòng khám nam khoa phường Tân Thuận bao gồm: Bệnh viện FV, Bệnh viện Đa khoa Trí Việt, BS. Hoàng Minh Hùng, Phòng khám Đa khoa Quốc tế Sài Gòn, Phòng khám Quốc tế Victoria Healthcare, Phòng Khám Đa Khoa Tân Bình" name="description">
+        <meta content="Phòng khám nam khoa phường Phú Thuận bao gồm: Bệnh viện FV, Bệnh viện Đa khoa Trí Việt, BS. Hoàng Minh Hùng, Phòng khám Đa khoa Quốc tế Sài Gòn, Phòng khám Quốc tế Victoria Healthcare, Phòng Khám Đa Khoa Tân Bình" name="description">
         <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
             {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 6 phòng khám nam khoa phường Phú Thuận đáng tin cậy","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
@@ -1667,7 +1667,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2877/phong-kham-nam-khoa-phuong-b
         <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
         <meta charset="utf-8">
         <title>Top 7 phòng khám nam khoa phường Bình Đông chất lượng, uy tín</title>
-        <meta content="Phòng khám nam khoa phường Phú Thuận bao gồm: Bệnh viện FV, Bệnh viện Đa khoa Trí Việt, BS. Hoàng Minh Hùng, Phòng khám Đa khoa Quốc tế Sài Gòn, Phòng khám Quốc tế Victoria Healthcare, Phòng Khám Đa Khoa Tân Bình" name="description">
+        <meta content="Phòng khám nam khoa phường Bình Đông bao gồm: Phòng Khám Đa Khoa Tân Bình, Phòng khám đa khoa Tâm Đức, Phòng khám đa khoa Hoàn Mỹ, Phòng khám đa khoa Việt Đức, Phòng khám đa khoa Minh Anh, Phòng khám đa khoa Sùng Đức, Phòng khám đa khoa Liên Tâm" name="description">
         <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
             {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 7 phòng khám nam khoa phường Bình Đông chất lượng, an toàn","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
@@ -1994,4 +1994,5 @@ if (crurl.includes("https://bvdkht.vn/feedback/2877/phong-kham-nam-khoa-phuong-b
     `;
 
 }
+
 
