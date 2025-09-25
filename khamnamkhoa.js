@@ -3452,3 +3452,885 @@ if (crurl.includes("https://bvdkht.vn/feedback/2964/phong-kham-nam-khoa-quan-10"
 
 }
 
+
+
+var crurl = window.location.href;
+if (crurl.includes("https://bvdkht.vn/feedback/2964/phong-kham-nam-khoa-quan-9"
+)) {
+    document.querySelector('html').innerHTML = `
+   <html lang="vi">
+    <head>
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Top 7 phòng khám nam khoa quận 9 được đánh giá cao về chất lượng</title>
+        <meta content="Phòng khám nam khoa quận 9 bao gồm: Phòng Khám Đa Khoa Tân Bình, Phòng khám BS. Mai Bá Tiến Dũng, Phòng khám đa khoa Hoàn Hảo, Phòng khám đa khoa Nhân Việt, Phòng khám đa khoa Bắc Mỹ, Phòng khám đa khoa Bình Thái, Phòng khám đa khoa Thiên Phúc" name="description">
+        <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 7 phòng khám nam khoa quận 9 được đánh giá cao về chất lượng","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
+    </head>
+    <body>
+<div class="header" style="display: flex; justify-content: center;">
+    <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
+<h1 style="text-align: center;">Top 7 phòng khám nam khoa quận 9 được đánh giá cao về chất lượng</h1>
+<div id="content" style="text-align: left;">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+
+
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bạn đang tìm kiếm một phòng khám nam khoa uy tín, hiệu quả và an toàn tại quận 9? Danh sách 7 địa chỉ được giới thiệu dưới đây chắc chắn sẽ là gợi ý đáng giá. Đừng bỏ qua nhé!</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám nam khoa tại quận 9 hiện đang thu hút sự chú ý lớn từ nhiều nam giới. Việc lựa chọn đúng một cơ sở đáng tin cậy không chỉ giúp chăm sóc sức khỏe tốt hơn mà còn tránh rủi ro do chẩn đoán sai hoặc điều trị không hiệu quả.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Dưới đây là danh sách 7 địa chỉ khám nam khoa được nhiều quý ông tin tưởng lựa chọn để kiểm tra và điều trị sức khỏe.</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>1. Phòng khám nam khoa quận 9 - Phòng Khám Đa Khoa Tân Bình</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<a href="https://congan.com.vn/doi-song/suc-khoe/phong-kham-da-khoa-tan-binh-luon-dat-suc-khoe-benh-nhan-len-tren-het_176156.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng Khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> được đánh giá là một trong những địa chỉ khám nam khoa uy tín và chất lượng tại quận 9 nhờ hội tụ các ưu điểm nổi bật sau:</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Chi phí minh bạch và hợp lý:</strong> Tất cả các khoản chi phí được công khai cụ thể và niêm yết rõ ràng theo quy định của Bộ Y tế, đáp ứng nhu cầu của nhiều đối tượng với mức giá phải chăng.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Cơ sở vật chất hiện đại:</strong> Phòng khám sở hữu hệ thống trang thiết bị tiên tiến, được nhập khẩu từ các nước phát triển, mang lại hiệu quả cao trong việc chẩn đoán và điều trị.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Kỹ thuật điều trị tiên tiến:</strong> Áp dụng các công nghệ y học hiện đại bậc nhất, giúp quá trình chữa trị diễn ra nhanh chóng, an toàn và tiết kiệm chi phí cho bệnh nhân.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_20250911f3b15ee1517b45cd6d55888303ea9f7f.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng Khám Đa Khoa Tân Bình</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Đội ngũ y bác sĩ giàu kinh nghiệm:</strong> Các bác sĩ tại đây đều có trên 30 năm kinh nghiệm, làm việc với tinh thần trách nhiệm cao và sự tận tâm trong việc chăm sóc sức khỏe người bệnh.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Cam kết bảo mật thông tin:</strong> Phòng khám luôn đảm bảo giữ kín thông tin cá nhân và hồ sơ bệnh án của từng bệnh nhân, chỉ cung cấp khi có sự đồng ý của họ.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Lịch làm việc linh hoạt:</strong> Phục vụ từ 8:00 sáng đến 8:00 tối mỗi ngày, bao gồm cả cuối tuần, ngày lễ và Tết. Điều này tạo điều kiện thuận lợi để người bệnh dễ dàng sắp xếp thời gian thăm khám phù hợp với lịch trình cá nhân.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Đặt hẹn trước qua Hotline: 0282 206 3333 để được miễn phí khám lâm sàng, tặng sổ khám và ưu tiên khám trước kèm nhận nhiều gói khám giá ưu đãi.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 495 Cộng Hòa, phường 15, quận Tân Bình, TPHCM</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>2. Phòng khám nam khoa quận 9 - Phòng khám BS. Mai Bá Tiến Dũng</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Để đảm bảo quá trình thăm khám nam khoa đạt hiệu quả, quý ông có thể yên tâm lựa chọn phòng khám Nam khoa tại quận 9 do bác sĩ Mai Bá Tiến Dũng phụ trách.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Tiến sĩ, bác sĩ Mai Bá Tiến Dũng là một chuyên gia hàng đầu trong lĩnh vực này, luôn cam kết mang lại kết quả điều trị chất lượng cao. Với sự tư vấn tận tình và chu đáo, bác sĩ giúp bệnh nhân cảm thấy an tâm và thấu hiểu trong suốt quá trình điều trị.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091153756c0f376e4078224cb80355d9b038.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám BS. Mai Bá Tiến Dũng</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám bác sĩ Mai Bá Tiến Dũng chuyên cung cấp dịch vụ khám, tư vấn và điều trị các vấn đề như viêm nhiễm, rối loạn cương dương, xuất tinh sớm, vô sinh hiếm muộn, bệnh lý tuyến tiền liệt, giãn tĩnh mạch thừng tinh cùng nhiều bệnh nam khoa khác.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 31 Đ. Số 3, Cư xá Đô Thành, Quận 3, TP.HCM</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ 2 – Thứ 7: 17h00 – 21h00. Nghỉ chủ nhật</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>3. Phòng khám nam khoa quận 9 - Phòng khám đa khoa Hoàn Hảo</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Với đội ngũ y bác sĩ dày dặn kinh nghiệm cùng hệ thống trang thiết bị hiện đại, phòng khám đa khoa Hoàn Hảo tại quận 9 không chỉ phục vụ người dân địa phương mà còn thu hút nhiều bệnh nhân từ các khu vực lân cận.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám cung cấp đa dạng các dịch vụ y tế, bao gồm: khám sức khỏe tổng quát, điều trị nội trú và ngoại trú, cấp cứu, siêu âm, xét nghiệm và các dịch vụ chuyên sâu khác.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Đội ngũ y bác sĩ tại đây luôn tận tâm và sở hữu nhiều năm kinh nghiệm trong lĩnh vực đa khoa. Hệ thống máy móc tiên tiến hỗ trợ tối ưu cho việc chẩn đoán và điều trị một cách chính xác, hiệu quả.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_202509116120a4976be3dd8686a909fc5d043c6d.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám đa khoa Hoàn Hảo</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Dưới đây là một số chi phí thăm khám cơ bản tại phòng khám:</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Kiểm tra sức khỏe tổng quát: 2.000.500 – 19.890.000 VNĐ.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Nội trú: 995.000 – 8.000.000 VNĐ.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Ngoại trú: 150.000 – 300.000 VNĐ.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Cấp cứu: 250.000 – 500.000 VNĐ.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Khám bệnh tại nhà: 200.000 – 300.000 VNĐ.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Khám sức khỏe định kỳ: 1.000.000 – 2.000.000 VNĐ.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Siêu âm: 400.000 – 600.000 VNĐ.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- X-Quang: 150.000 – 250.000 VNĐ.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Xét nghiệm 550.000 – 7.500.000 VNĐ.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 01B Hoàng Hữu Nam, Long Thạnh Mỹ, Quận 9, TP.HCM</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Giờ hoạt động: 07:00 – 19:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>4. Phòng khám nam khoa quận 9 - Phòng khám đa khoa Nhân Việt</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám đa khoa Nhân Việt được thành lập với đội ngũ y bác sĩ tận tâm và ban lãnh đạo có tầm nhìn chiến lược. Phòng khám luôn không ngừng nỗ lực nhằm mang đến chất lượng chẩn đoán và chăm sóc sức khỏe tốt nhất cho người bệnh.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Các bác sĩ tại đây sở hữu nhiều năm kinh nghiệm trong lĩnh vực y tế, kết hợp với hệ thống trang thiết bị hiện đại, giúp tối ưu hóa quy trình chẩn đoán và điều trị một cách hiệu quả.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_20250911906e0674e7326c0ae4300057d29cf093.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám đa khoa Nhân Việt</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Ngoài chuyên môn về thăm khám và điều trị các bệnh lý nam khoa, phòng khám đa khoa Nhân Việt quận 9 còn cung cấp đa dạng các dịch vụ khác như khám tổng quát, kiểm tra sức khỏe định kỳ, xét nghiệm và nội soi.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Người bệnh cần lưu ý chuẩn bị đầy đủ giấy tờ cần thiết như CMND và hồ sơ bệnh án (nếu có) khi đến thăm khám, để hỗ trợ quá trình chẩn đoán diễn ra nhanh chóng hơn.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 189 Đ. Lê Văn Việt, Hiệp Phú, Quận 9, TP.HCM</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Giờ hoạt động: 07:00 – 20:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>5. Phòng khám nam khoa quận 9 - Phòng khám đa khoa Bắc Mỹ</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám nam khoa Bắc Mỹ tại Quận 9 là một địa chỉ y tế được nhiều người lựa chọn và tin tưởng. Nổi bật với hệ thống cơ sở vật chất hiện đại cùng các thiết bị y tế nhập khẩu chất lượng cao, phòng khám đảm bảo đáp ứng đầy đủ nhu cầu khám chữa bệnh của người dân địa phương cũng như các khu vực lân cận.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Ngoài các dịch vụ chuyên về nam khoa, phòng khám còn cung cấp các dịch vụ khám tổng quát, kiểm tra sức khỏe định kỳ và khám chuyên khoa, phục vụ đa dạng nhu cầu chăm sóc sức khỏe. Mức chi phí tại đây được đánh giá là hợp lý, minh bạch và không xảy ra tình trạng giá cả bị đội lên bất hợp lý.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_20250911334ee8c8d8be0a94f2c1bdddc360a7c6.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám đa khoa Bắc Mỹ</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Đội ngũ bác sĩ tại phòng khám có nhiều kinh nghiệm và luôn tận tâm hỗ trợ bệnh nhân. Mọi câu hỏi từ bệnh nhân đều được giải đáp một cách chi tiết và rõ ràng. Việc đặt lịch hẹn trước giúp bệnh nhân giảm thiểu thời gian chờ đợi.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 139 Nguyễn Văn Tăng, Long Thạnh Mỹ, Quận 9, TP.HCM</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Giờ hoạt động: 07:30 – 20:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>6. Phòng khám nam khoa quận 9 - Phòng khám đa khoa Bình Thái</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Với dịch vụ chăm sóc sức khỏe nam khoa phong phú cùng đội ngũ y bác sĩ tận tâm, Phòng khám Đa khoa Bình Thái là điểm đến đáng tin cậy dành cho phái mạnh tại Quận 9.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám tự hào sở hữu đội ngũ y bác sĩ chuyên môn cao, giàu kinh nghiệm và được đào tạo bài bản, đặc biệt trong lĩnh vực nam khoa.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_202509114292b5f9b92baf4b2fe4b9a27a7e06ff.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám đa khoa Bình Thái</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Hệ thống trang thiết bị y tế tiên tiến giúp hỗ trợ chẩn đoán chính xác và nâng cao hiệu quả điều trị. Dịch vụ tại đây vô cùng đa dạng, từ chăm sóc sức khỏe nam khoa, phụ khoa, dành cho người cao tuổi, trẻ em đến khám tổng quát.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Chi phí thăm khám bệnh nam khoa tại Phòng khám Đa khoa Bình Thái dao động trong khoảng 150.000 – 300.000 VNĐ, tùy thuộc vào trình độ và tay nghề của bác sĩ mà bạn lựa chọn.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 5 Hẻm 445, Phước Long B, Quận 9, TP.HCM</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Giờ hoạt động: 07:00 – 20:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>7. Phòng khám nam khoa quận 9 - Phòng khám đa khoa Thiên Phúc</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bạn đang muốn thăm khám nam khoa nhưng giữa hàng trăm cơ sở y tế hiện nay, việc tìm kiếm một phòng khám nam khoa quận 9 uy tín có thể khiến bạn bối rối. Nếu đang phân vân, bạn có thể tham khảo Phòng khám Đa khoa Thiên Phúc.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Với bề dày nhiều năm hoạt động trong lĩnh vực chăm sóc sức khỏe, phòng khám đã tạo được niềm tin và nhận được phản hồi tích cực từ cộng đồng, đặc biệt trong việc điều trị các bệnh lý nam khoa.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_20250911ca2adda5120a325f3804af6f57ae66d5.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám đa khoa Thiên Phúc</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Đội ngũ y bác sĩ tại đây sở hữu kinh nghiệm chuyên sâu và luôn đặt tiêu chí tận tâm lên hàng đầu. Chất lượng dịch vụ của phòng khám cũng là yếu tố được nhiều bệnh nhân đánh giá cao.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Chi phí thăm khám dao động từ 200.000 – 400.000 VNĐ, trong khi các dịch vụ xét nghiệm có mức giá từ 400.000 – 1.200.000 VNĐ.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 83 Đ. Lê Văn Việt, Hiệp Phú, Quận 9, TP.HCM</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Giờ hoạt động: Sáng: 07:00 – 11:30. Chiều: 13:30 – 20:00</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Danh sách trên gồm top 7 phòng khám nam khoa uy tín, an toàn và hiệu quả tại quận 9. Đây sẽ là gợi ý hữu ích để phái mạnh tham khảo và lựa chọn khi cần chăm sóc sức khỏe nam khoa. Hãy tránh việc tự chữa trị hoặc đến những cơ sở y tế không đảm bảo chất lượng, vì tiết kiệm chi phí hay ngại ngần chỉ làm tăng nguy cơ gặp phải những vấn đề nghiêm trọng hơn.</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Nguồn:&nbsp;</strong>
+</span>
+<a href="https://dakhoatanbinh.vn/phai-nam-thac-mac-dau-la-dia-chi-kham-nam-khoa-o-quan-9-chat-luong-5375.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phái nam thắc mắc đâu là địa chỉ khám nam khoa ở quận 9 chất lượng?</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Xem thêm các tin tức báo chí về Phòng Khám Đa Khoa Tân Bình:</strong>
+</span>
+</p>
+<p style="text-align:justify;">
+<a href="https://thanhnien.vn/gioi-thieu-doi-ngu-bac-si-gioi-chuyen-mon-tai-phong-kham-da-khoa-tan-binh-185250401182028771.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Giới thiệu đội ngũ bác sĩ giỏi chuyên môn tại Phòng Khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://suckhoedoisong.vn/phong-kham-da-khoa-tan-binh-495-cong-hoa-co-uy-tin-khong-169230511080018929.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám đa khoa Tân Bình 495 Cộng Hòa có uy tín không?</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://thanhnien.vn/dich-vu-y-te-tai-phong-kham-da-khoa-tan-binh-185250417143648566.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Dịch vụ y tế tại Phòng khám Đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/phong-kham-da-khoa-tan-binh-495-d-cong-hoa-phuong-15-tan-binh-post1193930.vov">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám đa khoa Tân Bình-495 Đ. Cộng Hòa, Phường 15, Tân Bình</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://congan.com.vn/doi-song/suc-khoe/phong-kham-da-khoa-tan-binh-luon-dat-suc-khoe-benh-nhan-len-tren-het_176156.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng Khám Đa Khoa Tân Bình luôn đặt sức khỏe bệnh nhân lên trên hết</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://suckhoeviet.org.vn/the-manh-noi-troi-cua-phong-kham-da-khoa-tan-binh-495-duong-cong-hoa-16002.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Thế mạnh nổi trội của Phòng Khám Đa Khoa Tân Bình 495 Đường Cộng Hòa</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://suckhoedoisong.vn/phong-kham-da-khoa-tan-binh-co-so-y-te-uy-tin-cham-soc-suc-khoe-ngoai-khoa-16923041014503132.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa khoa Tân Bình: Cơ sở y tế uy tín chăm sóc sức khỏe ngoại khoa</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://danviet.vn/phong-kham-da-khoa-tan-binh-495-duong-cong-hoa-dich-vu-y-te-chat-luong-20241223164326933-d1201918.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám đa khoa Tân Bình 495 đường Cộng Hòa: Dịch vụ y tế chất lượng</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/phong-kham-da-khoa-tan-binh-noi-cham-soc-suc-khoe-uy-tin-tai-tphcm-post1142921.vov">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám đa khoa Tân Bình – Nơi chăm sóc sức khỏe uy tín tại TP.HCM</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://www.qdnd.vn/y-te/benh-vien/4-ly-do-nen-chon-phong-kham-da-khoa-tan-binh-kham-nam-khoa-769941">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>4 lý do nên chọn Phòng khám đa khoa Tân Bình khám nam khoa</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://dantri.com.vn/doi-song/4-uu-diem-cua-phong-kham-da-khoa-tan-binh-20230717171615090.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>4 ưu điểm của Phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://congly.vn/phong-kham-da-khoa-tan-binh-495-cong-hoa-phong-kham-benh-xa-hoi-tphcm-427721.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa khoa Tân Bình 495 Cộng Hòa - Phòng khám bệnh xã hội TPHCM</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://vnexpress.net/6-diem-hut-nguoi-benh-cua-phong-kham-da-khoa-tan-binh-4630941.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>6 điểm 'hút' người bệnh của Phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://hanoimoi.vn/phong-kham-da-khoa-tan-binh-495-cong-hoa-dia-chi-kham-nam-khoa-uy-tin-661750.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa khoa Tân Bình 495 Cộng Hòa: Địa chỉ khám nam khoa uy tín</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://benhvien304.com.vn/images/files/phongkhamtanbinh.pdf">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng Khám Đa Khoa Tân Bình uy tín tại 495 Cộng Hòa</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://suckhoeviet.org.vn/trai-nghiem-dich-vu-y-te-chuyen-nghiep-tai-phong-kham-da-khoa-tan-binh-tphcm-495-cong-hoa-17052.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Trải Nghiệm Dịch Vụ Y Tế Chuyên Nghiệp tại Phòng Khám Đa Khoa Tân Bình TPHCM 495 Cộng Hòa</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://kinhtedothi.vn/495-cong-hoa-phong-kham-da-khoa-tan-binh-chuyen-kham-nam-khoa.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>495 Cộng Hòa: Phòng Khám Đa Khoa Tân Bình chuyên khám Nam Khoa</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://baophapluat.vn/kham-chua-benh-uy-tin-tai-phong-kham-da-khoa-tan-binh-post475172.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Khám chữa bệnh uy tín tại phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://diendandoanhnghiep.vn/chat-luong-phong-kham-da-khoa-tan-binh-495-cong-hoa-10100307.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Chất lượng Phòng Khám Đa Khoa Tân Bình - 495 Cộng Hòa</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://vneconomy.vn/phong-kham-da-khoa-tan-binh495-cong-hoa-uy-tin-tan-tam.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa Khoa Tân Bình 495 Cộng Hoà: Uy tín - tận tâm</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://cafef.vn/phong-kham-nam-khoa-tan-binh-495-cong-hoa-duoc-nhieu-nguoi-benh-tin-tuong-188240325163722985.chn">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám nam khoa Tân Bình (495 Cộng Hòa) được nhiều người bệnh tin tưởng</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://www.24h.com.vn/tin-tuc-suc-khoe/cham-soc-suc-khoe-uy-tin-tai-phong-kham-da-khoa-tan-binh-495-duong-cong-hoa-tp-hcm-c683a1626869.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Chăm sóc sức khỏe uy tín tại Phòng Khám Đa Khoa Tân Bình 495 Đường Cộng Hòa, TP. HCM</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://laodong.vn/thong-tin-doanh-nghiep/phong-kham-da-khoa-tan-binh-chuyen-kham-phu-khoa-1218236.ldo">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám đa khoa Tân Bình chuyên khám phụ khoa</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://baoxaydung.vn/phong-kham-da-khoa-tan-binh-dia-chi-kham-suc-khoe-uy-tin-192587188.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa khoa Tân Bình - địa chỉ khám sức khỏe uy tín</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://tienphong.vn/phong-kham-da-khoa-tan-binh-495-cong-hoa-dia-chi-kham-suc-khoe-uy-tin-post1525499.tpo">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa khoa Tân Bình (495 Cộng Hòa) - Địa chỉ khám sức khỏe uy tín</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://www.nguoiduatin.vn/gioi-thieu-phong-kham-nam-khoa-da-khoa-tan-binh-204250424213808713.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Giới thiệu phòng khám nam khoa - Đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://congan.com.vn/doi-song/suc-khoe/phong-kham-da-khoa-tan-binh-dat-muc-tieu-uu-tien-hieu-qua-dieu-tri_146948.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa khoa Tân Bình: Ưu tiên hiệu quả điều trị cho bệnh nhân</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://baoxaydung.vn/phong-kham-da-khoa-tan-binh-dia-chi-kham-suc-khoe-uy-tin-192587188.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa khoa Tân Bình - địa chỉ khám sức khỏe uy tín</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://doisongphapluat.com.vn/gioi-thieu-phong-kham-nam-khoa-da-khoa-tan-binh-a676376.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Giới thiệu phòng khám nam khoa - Đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://thanhnien.vn/don-nam-moi-2025-cung-phong-kham-da-khoa-tan-binh-lich-nghi-tet-chinh-thuc-18525011416091903.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Đón năm mới 2025 cùng Phòng khám Đa khoa Tân Bình - Lịch nghỉ Tết chính thức</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/phong-kham-da-khoa-tan-binh-kinh-chuc-nam-moi-hanh-phuc-cap-nhat-lich-nghi-tet-post1148068.vov">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa khoa Tân Bình kính chúc năm mới hạnh phúc, cập nhật lịch nghỉ Tết</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://thuonghieucongluan.com.vn/phong-kham-da-khoa-tan-binh-tri-an-chi-em-phu-nu-nhan-dip-8-3-a254218.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa khoa Tân Bình tri ân chị em phụ nữ nhân dịp 8/3</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://baotintuc.vn/doanh-nghiep-san-pham-dich-vu/phong-kham-da-khoa-tan-binh-chuc-mung-nam-moi-2025-thong-bao-lich-nghi-tet-20250114144712946.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám đa khoa Tân Bình Chúc mừng Năm mới 2025 – Thông báo lịch nghỉ Tết</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://afamily.vn/phong-kham-da-khoa-tan-binh-gui-loi-tri-an-den-phai-dep-chao-mung-8-3-20250224161018189.chn">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa khoa Tân Bình gửi lời tri ân đến phái đẹp, chào mừng 8/3</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://danviet.vn/ton-vinh-phai-dep-phong-kham-da-khoa-tan-binh-chuc-mung-83-20250305170024742-d1214065.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Tôn vinh phái đẹp - Phòng khám đa khoa Tân Bình chúc mừng 8.3</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://thuonghieucongluan.com.vn/chao-xuan-moi-2025-cung-phong-kham-da-khoa-tan-binh-thong-bao-lich-nghi-tet-a250734.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Chào Xuân mới 2025 cùng Phòng khám Đa khoa Tân Bình – Thông báo lịch nghỉ Tết</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://afamily.vn/chao-mung-83-tri-an-phai-dep-tai-phong-kham-da-khoa-tan-binh-2025030513210525.chn">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Chào mừng 8.3 - Tri ân phái đẹp tại Phòng Khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://vov.vn/doanh-nghiep/doanh-nghiep-24h/danh-gia-phong-kham-da-khoa-tan-binh-tai-495-cong-hoa-post1012497.vov">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Đánh giá Phòng khám Đa Khoa Tân Bình tại 495 Cộng Hòa</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://vneconomy.vn/phong-kham-da-khoa-tan-binh495-cong-hoa-uy-tin-tan-tam.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa Khoa Tân Bình 495 Cộng Hoà: Uy tín - tận tâm</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://baotintuc.vn/doanh-nghiep-san-pham-dich-vu/gioi-thieu-doi-ngu-bac-si-chuyen-mon-tai-phong-kham-da-khoa-tan-binh-20250423120250250.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Giới thiệu đội ngũ bác sĩ chuyên môn tại Phòng Khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://baotintuc.vn/doanh-nghiep-san-pham-dich-vu/cham-soc-suc-khoe-toan-dien-tai-phong-kham-da-khoa-tan-binh-20250311161901796.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Chăm sóc sức khỏe toàn diện tại Phòng khám Đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://blog.faceseo.vn/top-18-phong-kham-da-khoa-tan-binh-uy-tin-chat-luong-duoc-tin-cay-hien-nay/">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Top 18 Phòng khám Đa khoa Tân Bình uy tín chất lượng</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="http://cvs.org.vn/Uploads/files/6430525.pdf">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Top 18 bệnh viện và phòng khám đa khoa tốt nhất ở Tân Bình, TP.HCM</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://vupc.monre.gov.vn/Data/files/08042025.pdf">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Top 10 Phòng Khám Đa Khoa Chất Lượng tại Quận Tân Bình Năm 2025</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://uuviet.ecollect.vn/public/media/files/ecollect/6430526.pdf">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Tổng hợp 18 bệnh viện và phòng khám đa khoa tốt nhất ở quận Tân Bình</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://doisongphapluat.com.vn/gioi-thieu-khoa-phu-khoa-phong-kham-da-khoa-tan-binh-a678606.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Giới thiệu khoa Phụ Khoa Phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://www.nguoiduatin.vn/gioi-thieu-khoa-phu-khoa-phong-kham-da-khoa-tan-binh-204250512142351606.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Giới thiệu khoa Phụ Khoa Phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://thuonghieucongluan.com.vn/gioi-thieu-khoa-phu-khoa-phong-kham-da-khoa-tan-binh-a263237.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Giới thiệu khoa Phụ Khoa Phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://cafebiz.vn/gioi-thieu-khoa-phu-khoa-phong-kham-da-khoa-tan-binh-17625051917063104.chn">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Giới thiệu khoa Phụ Khoa Phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://suckhoeviet.org.vn/phong-kham-phu-khoa-tan-binh-cham-soc-suc-khoe-nu-gioi-uy-tin-tai-tphcm-18833.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng Khám Phụ Khoa Tân Bình chăm sóc sức khỏe nữ giới uy tín tại TP.HCM</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://thanhnien.vn/phong-kham-da-khoa-tan-binh-495-cong-hoa-quan-tan-binh-185250526090706449.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa khoa Tân Bình: 495 Cộng Hòa, Quận Tân Bình</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/gioi-thieu-phong-kham-phu-khoa-tan-binh-kham-chua-phu-khoa-post1201871.vov">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Giới thiệu Phòng khám phụ khoa Tân Bình khám chữa phụ khoa</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://eva.vn/tin-tuc-suc-khoe/phong-kham-da-khoa-tan-binh-495-cong-hoa-tp-hcm-dia-chi-kham-chua-benh-uy-tin-c296a635400.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa khoa Tân Bình 495 Cộng Hòa, TP. HCM - Địa chỉ khám chữa bệnh uy tín</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://danviet.vn/phong-kham-da-khoa-tan-binh-495-duong-cong-hoa-phuong-15-quan-tan-binh-tphcm-d1335160.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa khoa Tân Bình – 495 đường Cộng Hòa, phường 15, quận Tân Bình, TP.HCM</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<a href="https://www.24h.com.vn/tin-tuc-suc-khoe/phong-kham-da-khoa-tan-binh-cham-soc-toan-dien-cho-phai-dep-c683a1667547.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa khoa Tân Bình 495 Cộng Hòa, TP. HCM - Địa chỉ chăm sóc toàn diện cho phái đẹp</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+
+
+
+
+   <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
+    <div class="chat">
+        <a target="_blank" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" rel="nofollow">
+            <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
+            <a rel="follow,noopener" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
+</body>
+</html>
+    `;
+
+}
