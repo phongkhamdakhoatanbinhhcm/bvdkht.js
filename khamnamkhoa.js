@@ -1935,7 +1935,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2964/phong-kham-nam-khoa-phuong-a
 </p>
 <h2 style="text-align:justify;">
 <span style="background-color:transparent;color:#0000ff;">
-<strong>8. Phòng khám nam khoa phường An Khánh - Phòng khám Tâm Bình Medic</strong>
+<strong>8. Phòng khám nam khoa phường Bình Trưng - Phòng khám Tâm Bình Medic</strong>
 </span>
 </h2>
 <p style="text-align:justify;">
@@ -1993,7 +1993,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2964/phong-kham-nam-khoa-phuong-b
         <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
         <meta charset="utf-8">
         <title>Top 8 phòng khám nam khoa phường Bình Trưng khám chữa với chi phí hợp lý</title>
-        <meta content="Phòng khám nam khoa phường An Khánh bao gồm: Phòng Khám Đa Khoa Tân Bình, Phòng khám đa khoa Thiện Tâm, Phòng khám đa khoa Á Châu, Phòng khám đa khoa Phước Sơn, Phòng khám đa khoa Linh Xuân, Phòng khám đa khoa Tứ Hải, Phòng khám đa khoa CHAC cơ sở 2, Phòng khám Tâm Bình Medic" name="description">
+        <meta content="Phòng khám nam khoa phường Bình Trưng bao gồm: Phòng Khám Đa Khoa Tân Bình, Phòng khám đa khoa Thiện Tâm, Phòng khám đa khoa Á Châu, Phòng khám đa khoa Phước Sơn, Phòng khám đa khoa Linh Xuân, Phòng khám đa khoa Tứ Hải, Phòng khám đa khoa CHAC cơ sở 2, Phòng khám Tâm Bình Medic" name="description">
         <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
             {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 8 phòng khám nam khoa phường Bình Trưng khám chữa với chi phí hợp lý","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
@@ -2003,7 +2003,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2964/phong-kham-nam-khoa-phuong-b
     <body>
 <div class="header" style="display: flex; justify-content: center;">
     <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
-<h1 style="text-align: center;">Top 8 phòng khám nam khoa phường An Khánh thăm khám và điều trị an toàn hiệu quả</h1>
+<h1 style="text-align: center;">Top 8 phòng khám nam khoa phường Bình Trưng khám chữa với chi phí hợp lý</h1>
 <div id="content" style="text-align: left;">
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
 
@@ -2020,7 +2020,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2964/phong-kham-nam-khoa-phuong-b
 </p>
 <h2 style="text-align:justify;">
 <span style="background-color:transparent;color:#0000ff;">
-<strong>1. Phòng khám nam khoa phường An Khánh - Phòng Khám Đa Khoa Tân Bình</strong>
+<strong>1. Phòng khám nam khoa phường Bình Trưng - Phòng Khám Đa Khoa Tân Bình</strong>
 </span>
 </h2>
 <p style="text-align:justify;">
@@ -2251,6 +2251,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2964/phong-kham-nam-khoa-phuong-b
     `;
 
 }
+
 
 
 
