@@ -1935,7 +1935,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2964/phong-kham-nam-khoa-phuong-a
 </p>
 <h2 style="text-align:justify;">
 <span style="background-color:transparent;color:#0000ff;">
-<strong>8. Phòng khám nam khoa phường Bình Trưng - Phòng khám Tâm Bình Medic</strong>
+<strong>8. Phòng khám nam khoa phường An Khánh - Phòng khám Tâm Bình Medic</strong>
 </span>
 </h2>
 <p style="text-align:justify;">
@@ -2199,7 +2199,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2964/phong-kham-nam-khoa-phuong-b
 </p>
 <h2 style="text-align:justify;">
 <span style="background-color:transparent;color:#0000ff;">
-<strong>8. Phòng khám nam khoa phường An Khánh - Phòng khám Tâm Bình Medic</strong>
+<strong>8. Phòng khám nam khoa phường Bình Trưng - Phòng khám Tâm Bình Medic</strong>
 </span>
 </h2>
 <p style="text-align:justify;">
@@ -2251,6 +2251,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2964/phong-kham-nam-khoa-phuong-b
     `;
 
 }
+
 
 
 
