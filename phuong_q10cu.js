@@ -1,5 +1,5 @@
 var crurl = window.location.href;
-if (crurl.includes("http://bvdkht.vn/feedback/3081/phong-kham-nam-khoa-phuong-vuon-lai"
+if (crurl.includes("https://bvdkht.vn/feedback/3081/phong-kham-nam-khoa-phuong-vuon-lai"
 )) {
     document.querySelector('html').innerHTML = `
    <html lang="vi">
@@ -280,3 +280,4 @@ if (crurl.includes("http://bvdkht.vn/feedback/3081/phong-kham-nam-khoa-phuong-vu
     `;
 
 }
+
