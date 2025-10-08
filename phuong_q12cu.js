@@ -395,13 +395,42 @@ if (crurl.includes("https://bvdkht.vn/feedback/3091/phong-kham-nam-khoa-phuong-d
 </span>
 </a>
 </p>
-
-
-
-
-
-
-
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/3091/phong-kham-nam-khoa-phuong-trung-my-tay">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Top 9 phòng khám nam khoa phường Trung Mỹ Tây bạn nên tham khảo</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/3091/phong-kham-nam-khoa-phuong-tan-thoi-hiep">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Top 9 phòng khám nam khoa phường Tân Thới Hiệp dành cho đấng mày râu</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/3091/phong-kham-nam-khoa-phuong-thoi-an">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Top 9 phòng khám nam khoa phường Thới An quy tụ các chuyên gia giỏi hàng đầu</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/3091/phong-kham-nam-khoa-phuong-an-phu-dong">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Top 9 phòng khám nam khoa phường An Phú Đông cơ sở vật chất hiện đại</u>
+</strong>
+</span>
+</a>
+</p>
 
 
 
@@ -418,3 +447,4 @@ if (crurl.includes("https://bvdkht.vn/feedback/3091/phong-kham-nam-khoa-phuong-d
     `;
 
 }
+
