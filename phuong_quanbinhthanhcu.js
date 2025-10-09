@@ -2057,6 +2057,29 @@ if (crurl.includes("https://bvdkht.vn/feedback/3102/phong-kham-nam-khoa-phuong-t
 }
 
 
+var crurl = window.location.href;
+if (crurl.includes("https://bvdkht.vn/feedback/3102/phong-kham-nam-khoa-phuong-thanh-my-tay"
+)) {
+    document.querySelector('html').innerHTML = `
+   <html lang="vi">
+    <head>
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Top 13 bệnh viện, phòng khám nam khoa phường Thạnh Mỹ Tây không thể bỏ qua</title>
+        <meta content="Danh sách bệnh viện, phòng khám nam khoa phường Thạnh Mỹ Tây bao gồm: Bệnh viện Bình Thạnh, Bệnh viện Ung Bướu, Bệnh viện Nhân Dân Gia Định, Bệnh Viện Quốc Tế Columbia Asia Gia Định, Bệnh Viện Đa Khoa Quốc Tế Vinmec Vinhomes Central Park, Phòng Khám Đa Khoa Tân Bình, Phòng khám Đa khoa Quốc tế Hàng Xanh, Phòng khám Đa Khoa Hoàng Long, Phòng khám Đa Khoa Yên Dũng, Phòng khám Đa Khoa Kiều Tiên, Phòng khám Đa Khoa Phúc An, Phòng khám BS. Nguyễn Quang Vinh, Phòng khám BS. Lê Quốc Bảo" name="description">
+        <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 13 bệnh viện, phòng khám nam khoa phường Thạnh Mỹ Tây không thể bỏ qua","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
+    </head>
+    <body>
+<div class="header" style="display: flex; justify-content: center;">
+    <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
+<h1 style="text-align: center;">Top 13 bệnh viện, phòng khám nam khoa phường Thạnh Mỹ Tây không thể bỏ qua</h1>
+<div id="content" style="text-align: left;">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
 
 
 <p style="text-align:justify;">
@@ -2526,11 +2549,6 @@ if (crurl.includes("https://bvdkht.vn/feedback/3102/phong-kham-nam-khoa-phuong-t
 </span>
 </a>
 </p>
-
-
-
-
-
 
 
 
@@ -3061,4 +3079,5 @@ if (crurl.includes("https://bvdkht.vn/feedback/3102/phong-kham-nam-khoa-phuong-b
     `;
 
 }
+
 
