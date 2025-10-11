@@ -1261,7 +1261,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/3116/phong-kham-nam-khoa-phuong-g
 
 
 var crurl = window.location.href;
-if (crurl.includes("https://bvdkht.vn/feedback/3116/phong-kham-nam-khoa-phuong-hanh-thong-tay"
+if (crurl.includes("https://bvdkht.vn/feedback/3116/phong-kham-nam-khoa-phuong-thong-tay-hoi"
 )) {
     document.querySelector('html').innerHTML = `
    <html lang="vi">
@@ -1269,18 +1269,18 @@ if (crurl.includes("https://bvdkht.vn/feedback/3116/phong-kham-nam-khoa-phuong-h
         <meta content="width=device-width,initial-scale=1" name="viewport">
         <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
         <meta charset="utf-8">
-        <title>Top 10 phòng khám nam khoa phường Hạnh Thông Tây chất lượng hàng đầu</title>
-        <meta content="Phòng khám nam khoa phường Hạnh Thông Tây bao gồm: Bệnh viện quận Gò Vấp, Phòng khám đa khoa Hữu Nghị, Bệnh viện Quân y 175, Bệnh viện đa khoa Hồng Đức III, Bệnh viện Đa khoa Quốc tế Vũ Anh, Bệnh Viện Đa Khoa Hồng Đức, Phòng Khám Đa Khoa Bắc Sài Gòn, Phòng Khám Y Khoa Quang Trung, Phòng Khám Y Học Cổ Truyền Sài Gòn, Phòng Khám Đa Khoa Tân Bình" name="description">
+        <title>Top 10 phòng khám nam khoa phường Thông Tây Hội chất lượng hàng đầu</title>
+        <meta content="Phòng khám nam khoa phường Thông Tây Hội bao gồm: Bệnh viện quận Gò Vấp, Phòng khám đa khoa Hữu Nghị, Bệnh viện Quân y 175, Bệnh viện đa khoa Hồng Đức III, Bệnh viện Đa khoa Quốc tế Vũ Anh, Bệnh Viện Đa Khoa Hồng Đức, Phòng Khám Đa Khoa Bắc Sài Gòn, Phòng Khám Y Khoa Quang Trung, Phòng Khám Y Học Cổ Truyền Sài Gòn, Phòng Khám Đa Khoa Tân Bình" name="description">
         <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
-            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 10 phòng khám nam khoa phường Hạnh Thông Tây chất lượng hàng đầu","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 10 phòng khám nam khoa phường Thông Tây Hội chất lượng hàng đầu","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
         </script>
         <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
     </head>
     <body>
 <div class="header" style="display: flex; justify-content: center;">
     <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
-<h1 style="text-align: center;">Top 10 phòng khám nam khoa phường Hạnh Thông Tây chất lượng hàng đầu</h1>
+<h1 style="text-align: center;">Top 10 phòng khám nam khoa phường Hạnh Thông Tây Hội chất lượng hàng đầu</h1>
 <div id="content" style="text-align: left;">
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
 
@@ -1801,6 +1801,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/3116/phong-kham-nam-khoa-phuong-t
     `;
 
 }
+
 
 
 
