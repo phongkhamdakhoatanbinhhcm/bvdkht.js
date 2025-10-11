@@ -1198,7 +1198,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/3116/phong-kham-nam-khoa-phuong-g
 
 <h2 style="text-align:justify"><span style="font-size:26px"><span style="font-family:times new roman,times,serif"><span style="background-color:transparent; color:#134f5c"><strong>10. Ph&ograve;ng kh&aacute;m nam khoa phường G&ograve; Vấp - Ph&ograve;ng Kh&aacute;m Đa Khoa T&acirc;n B&igrave;nh</strong> </span></span></span></h2>
 
-<p style="text-align:justify"><span style="font-size:20px"><span style="font-family:times new roman,times,serif"><span style="background-color:transparent; color:#000000">Mặc d&ugrave; kh&ocirc;ng nằm tr&ecirc;n địa b&agrave;n phường V,&nbsp;</span> <a href="https://dakhoatanbinh.vn/"> <span style="background-color:transparent; color:#1155cc"> <strong> <u>Ph&ograve;ng Kh&aacute;m Đa Khoa T&acirc;n B&igrave;nh</u> </strong> </span> </a> <span style="background-color:transparent; color:#000000"> vẫn l&agrave; địa chỉ đ&aacute;ng tin cậy được nhiều nam giới trong khu vực lựa chọn mỗi khi gặp phải c&aacute;c vấn đề về sức khỏe nam khoa. Sự t&iacute;n nhiệm n&agrave;y xuất ph&aacute;t từ những điểm nổi bật sau:</span></span></span></p>
+<p style="text-align:justify"><span style="font-size:20px"><span style="font-family:times new roman,times,serif"><span style="background-color:transparent; color:#000000">Mặc d&ugrave; kh&ocirc;ng nằm tr&ecirc;n địa b&agrave;n phường Gò Vấp,&nbsp;</span> <a href="https://dakhoatanbinh.vn/"> <span style="background-color:transparent; color:#1155cc"> <strong> <u>Ph&ograve;ng Kh&aacute;m Đa Khoa T&acirc;n B&igrave;nh</u> </strong> </span> </a> <span style="background-color:transparent; color:#000000"> vẫn l&agrave; địa chỉ đ&aacute;ng tin cậy được nhiều nam giới trong khu vực lựa chọn mỗi khi gặp phải c&aacute;c vấn đề về sức khỏe nam khoa. Sự t&iacute;n nhiệm n&agrave;y xuất ph&aacute;t từ những điểm nổi bật sau:</span></span></span></p>
 
 <p style="text-align:justify"><span style="font-size:20px"><span style="font-family:times new roman,times,serif"><span style="background-color:transparent; color:#000000">- Ph&ograve;ng kh&aacute;m hoạt động ho&agrave;n to&agrave;n hợp ph&aacute;p, được cấp đầy đủ c&aacute;c giấy ph&eacute;p cần thiết, cam kết mang đến sự uy t&iacute;n v&agrave; chất lượng cao trong từng dịch vụ chăm s&oacute;c sức khỏe d&agrave;nh ri&ecirc;ng cho nam giới.&nbsp;&nbsp;</span></span></span></p>
 
@@ -1966,6 +1966,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/3116/phong-kham-nam-khoa-phuong-t
     `;
 
 }
+
 
 
 
