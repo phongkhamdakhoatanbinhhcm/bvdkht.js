@@ -1280,7 +1280,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/3116/phong-kham-nam-khoa-phuong-t
     <body>
 <div class="header" style="display: flex; justify-content: center;">
     <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
-<h1 style="text-align: center;">Top 10 phòng khám nam khoa phường Hạnh Thông Tây Hội chất lượng hàng đầu</h1>
+<h1 style="text-align: center;">Top 10 phòng khám nam khoa phường Thông Tây Hội chất lượng hàng đầu</h1>
 <div id="content" style="text-align: left;">
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
 
@@ -1801,6 +1801,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/3116/phong-kham-nam-khoa-phuong-t
     `;
 
 }
+
 
 
 
