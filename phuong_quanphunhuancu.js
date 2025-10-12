@@ -350,7 +350,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/3134/phong-kham-nam-khoa-phuong-d
 </span>
 </h2>
 <p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">Nếu bạn e ngại việc phải đến bệnh viện công đông đúc và mất nhiều thời gian chờ đợi, đồng thời muốn tìm một bệnh viện nam khoa ở phường Đức Nhuận với dịch vụ chất lượng, Bệnh viện Tư nhân An Sinh có thể là một lựa chọn đáng cân nhắc. Bệnh viện đặc biệt quan tâm đến tâm lý của khách hàng, mang đến không gian khám chữa sạch sẽ, thông thoáng và được trang bị đầy đủ máy móc hiện đại.https://sf-static.upanhlaylink.com/img/image_20250911334ee8c8d8be0a94f2c1bdddc360a7c6.jpg</span>
+<span style="background-color:transparent;color:#000000;">Nếu bạn e ngại việc phải đến bệnh viện công đông đúc và mất nhiều thời gian chờ đợi, đồng thời muốn tìm một bệnh viện nam khoa ở phường Đức Nhuận với dịch vụ chất lượng, Bệnh viện Tư nhân An Sinh có thể là một lựa chọn đáng cân nhắc. Bệnh viện đặc biệt quan tâm đến tâm lý của khách hàng, mang đến không gian khám chữa sạch sẽ, thông thoáng và được trang bị đầy đủ máy móc hiện đại.</span>
 </p>
 <p style="text-align:center;">
 <img src="https://sf-static.upanhlaylink.com/img/image_20250911334ee8c8d8be0a94f2c1bdddc360a7c6.jpg">
@@ -437,3 +437,4 @@ if (crurl.includes("https://bvdkht.vn/feedback/3134/phong-kham-nam-khoa-phuong-d
     `;
 
 }
+
