@@ -388,15 +388,114 @@ if (crurl.includes("https://bvdkht.vn/feedback/3160/phong-kham-nam-khoa-phuong-t
 </span>
 </a>
 </p>
-
-
-
-
-
-
-
-
-
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/3160/phong-kham-nam-khoa-phuong-thu-duc">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Top 12 phòng khám nam khoa phường Thủ Đức chất lượng đẳng cấp nhất hiện tại</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/3160/phong-kham-nam-khoa-phuong-hiep-binh">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Top 12 phòng khám nam khoa phường Hiệp Bình có dịch vụ khám nam khoa chuyên sâu</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/3160/phong-kham-nam-khoa-phuong-tam-binh">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Top 12 phòng khám nam khoa phường Tam Bình có bác sĩ giỏi, thiết bị hiện đại</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/3160/phong-kham-nam-khoa-phuong-tang-nhon-phu">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Top 12 phòng khám nam khoa phường Tăng Nhơn Phú được lựa chọn nhiều nhất</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/3160/phong-kham-nam-khoa-phuong-linh-xuan">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Top 12 phòng khám nam khoa phường Linh Xuân đáng đến nhất cho cánh mày râu</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/3160/phong-kham-nam-khoa-phuong-phuoc-long">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Top 12 phòng khám nam khoa phường Phước Long uy tín và chất lượng nhất hiện nay</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/3160/phong-kham-nam-khoa-phuong-long-phuoc">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Top 12 phòng khám nam khoa phường Long Phước có chi phí hợp lý, bảo mật riêng tư</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/3160/phong-kham-nam-khoa-phuong-an-khanh">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Top 12 phòng khám nam khoa phường An Khánh khám chữa với phương pháp tiên tiến</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/3160/phong-kham-nam-khoa-phuong-binh-trung">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Top 12 phòng khám nam khoa phường Bình Trưng an toàn, nhanh chóng, hiệu quả</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/3160/phong-kham-nam-khoa-phuong-cat-lai">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Top 12 phòng khám nam khoa phường Cát Lái khám chữa bệnh ngoài giờ hiệu quả</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/3160/phong-kham-nam-khoa-phuong-long-truong">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Top 12 phòng khám nam khoa phường Long Trường được chuyên gia khuyên chọn</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://bvdkht.vn/feedback/3160/phong-kham-nam-khoa-phuong-long-binh">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Top 12 phòng khám nam khoa phường Long Bình bác sĩ giỏi, tỷ lệ thành công cao</u>
+</strong>
+</span>
+</a>
+</p>
 
 
 
@@ -412,3 +511,4 @@ if (crurl.includes("https://bvdkht.vn/feedback/3160/phong-kham-nam-khoa-phuong-t
     `;
 
 }
+
