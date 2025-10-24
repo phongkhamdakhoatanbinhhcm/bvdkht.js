@@ -1,5 +1,5 @@
 var crurl = window.location.href;
-if (crurl.includes("https://hongduchospital.vn/khach-hang/tu-van-hoi-dap/chi-phi-kham-tong-quat-a-1048.html?top-10-phong-kham-da-khoa-tan-binh-co-uy-tin-tot-chat-luong-cao")) {
+if (crurl.includes("https://bvdkht.vn/feedback/3304/top-10-phong-kham-da-khoa-tan-binh-co-uy-tin-tot-chat-luong-cao")) {
     document.querySelector('html').innerHTML = `
    <html lang="vi">
     <head>
@@ -3495,6 +3495,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2834/phong-kham-nam-khoa-phuong-p
     `;
 
 }
+
 
 
 
